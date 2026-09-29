@@ -16,6 +16,7 @@ import datetime
 import subprocess
 import html
 import json
+import os
 import random
 import re
 import sys
@@ -50,7 +51,7 @@ def fetch(url, tries=3):
 
 
 def pause():
-    time.sleep(random.uniform(2.5, 5.0))
+    time.sleep(random.uniform(6.0, 12.0))
 
 
 def clean(s):
@@ -136,7 +137,13 @@ def main():
             return
         kws = [a.arg] if a.mode == "keyword" else [l.strip() for l in open(a.arg) if l.strip()]
         results = []
+        if a.out and os.path.exists(a.out):
+            # Resume: keep keywords already collected, fetch only the rest.
+            results = json.load(open(a.out))
+        done = {r["keyword"] for r in results}
         for kw in kws:
+            if kw in done:
+                continue
             r = keyword(kw, a.top)
             results.append(r)
             show(r)
