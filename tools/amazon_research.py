@@ -68,10 +68,13 @@ def search(keyword, top):
     q = urllib.parse.urlencode({"k": keyword, "i": "digital-text"})
     s = fetch(f"{BASE}/s?{q}")
     asins = []
-    # Organic results only: skip sponsored slots.
-    for m in re.finditer(r'data-asin="([A-Z0-9]{10})"[^>]*data-component-type="s-search-result"(.{0,6000})', s, re.S):
-        asin, chunk = m.group(1), m.group(2)
-        if "Sponsored" in chunk[:4000] or asin in asins:
+    # Organic results only: judge "Sponsored" within each result's own block, since a
+    # wider window runs into neighbouring ad blocks and drops real results.
+    hits = list(re.finditer(r'data-asin="([A-Z0-9]{10})"[^>]*data-component-type="s-search-result"', s))
+    for i, m in enumerate(hits):
+        asin = m.group(1)
+        block = s[m.end():hits[i + 1].start() if i + 1 < len(hits) else len(s)]
+        if re.search(r'>\s*Sponsored\s*<', block) or asin in asins:
             continue
         asins.append(asin)
     total = re.search(r'([\d,]+) results for', s) or re.search(r'of (?:over )?([\d,]+) results', s)
