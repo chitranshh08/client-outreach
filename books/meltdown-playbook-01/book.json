@@ -1,0 +1,26 @@
+{
+  "slug": "meltdown-playbook-01",
+  "title": "The Meltdown Playbook",
+  "subtitle": "The Exact Words to Calm Tantrums and Big Feelings",
+  "subtitle_line2": "Emotional Regulation Scripts for Parents of Kids 2 to 7",
+  "series_line": "A Calm Words Parenting Guide · Book 1",
+  "author": "Hannah Rowe",
+  "language": "en-US",
+  "version": "1.0",
+  "release_date": "2026-09-30",
+  "print": {
+    "trim_in": [6, 9],
+    "bleed": false,
+    "paper": "white",
+    "ink": "black and white",
+    "margin_inside_in": 0.8,
+    "margin_outside_in": 0.6,
+    "margin_top_in": 0.7,
+    "margin_bottom_in": 0.8
+  },
+  "links": {
+    "review_url": null,
+    "instagram_handle": null
+  },
+  "_notes": "Print specs from cover-brief.md (6x9, white paper, B&W interior, no interior bleed). links.* are null until the ASIN and the pen-name Instagram account exist; the build removes the placeholder lines while they are null and inserts them automatically once filled in."
+}

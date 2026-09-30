@@ -1,6 +1,6 @@
 # Progress: The Meltdown Playbook
 
-**Status:** FULL DRAFT COMPLETE 2026-09-30 (front matter, intro, Ch 1–13, back matter; ≈ 22,200 words) · awaiting owner edit pass · awaiting owner read-through
+**Status:** PUBLICATION FILES BUILT 2026-09-30: `release/v1.0/` (Kindle DOCX + 103-page 6×9 interior PDF; see release/v1.0/BUILD.md). Editorial review complete; author name and cover design approved by owner. Blocking for paperback cover: approved cover image not in the repo. · awaiting owner read-through
 **Length policy (owner, 2026-09-30):** no fixed word thresholds; chapter lengths may go up or down to fit the content.
 **Title (confirmed by owner 2026-09-30):** The Meltdown Playbook: The Exact Words to Calm Tantrums and
 Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A in `brief.md`)

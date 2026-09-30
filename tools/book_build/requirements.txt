@@ -1,0 +1,6 @@
+weasyprint==70.0
+pypandoc_binary  # bundles pandoc 3.9
+python-docx
+pymupdf
+fonttools
+brotli

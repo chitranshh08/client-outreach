@@ -21,9 +21,9 @@
 |---|---|
 | Ebook front | 1600 × 2560 px, RGB, JPG |
 | Paperback trim | 6 × 9 in, white paper, black-and-white interior |
-| Est. page count | ~100–115 after full draft (was 140). Re-run the KDP cover calculator when the interior is laid out |
-| Spine | 140 × 0.002252 in = 0.315 in |
-| Full wrap | 12.565 × 9.25 in incl. 0.125 in bleed → 3770 × 2775 px at 300 DPI |
+| **Final interior page count** | **103** (release v1.0 interior PDF, 2026-09-30) |
+| Spine | 103 × 0.002252 in = **0.232 in** (≈ 70 px at 300 DPI). Spine text: allowed above 79 pages, but only ~0.107 in (≈ 7.7 pt) fits inside KDP's 0.0625 in spine clearance, so keep it tiny or omit it |
+| Full wrap | **12.482 × 9.25 in** incl. 0.125 in bleed → **3745 × 2775 px** at 300 DPI |
 | Barcode area | Keep 2 × 1.2 in clear, bottom right of back cover |
 | Safe zone | All text ≥ 0.25 in inside the trim line |
 
@@ -68,18 +68,18 @@ Give me 3 distinct variations: (A) speech bubble centered, (B) title top-left wi
 Use after picking the winning front from Prompt 1.
 
 ```
-Create a print-ready KDP paperback full-wrap cover (back cover + spine + front cover as ONE image) for a 6 × 9 inch book, 140 pages, white paper.
+Create a print-ready KDP paperback full-wrap cover (back cover + spine + front cover as ONE image) for a 6 × 9 inch book, 103 pages, white paper.
 
-CANVAS: 3770 × 2775 px (12.565 × 9.25 in at 300 DPI). Layout left to right:
+CANVAS: 3745 × 2775 px (12.482 × 9.25 in at 300 DPI). Layout left to right:
 - Back cover: 0 to 1837 px wide (includes 37 px bleed on the left)
-- Spine: 1837 to 1933 px (96 px wide ≈ 0.315 in)
-- Front cover: 1933 to 3770 px (includes 37 px bleed on the right)
+- Spine: 1838 to 1907 px (70 px wide ≈ 0.232 in)
+- Front cover: 1907 to 3745 px (includes 37 px bleed on the right)
 - 37 px bleed on top and bottom as well. Extend the background color fully into all bleed areas.
 - Keep ALL text and important art at least 75 px inside the trim line (112 px from the outer canvas edge) and at least 20 px away from the spine folds.
 
 FRONT COVER: reproduce the approved front design exactly [attach/describe the winning variation]: title "The Meltdown Playbook", subtitle "The Exact Words to Calm Tantrums and Big Feelings", small line "Emotional Regulation Scripts for Parents of Kids 2 to 7", top line "A Calm Words Parenting Guide", author "Hannah Rowe". Same palette: cream #FBF6EE, navy #1E2A44, coral #F26B4F, yellow #F7C548.
 
-SPINE (vertical text, reading top to bottom, centered): "THE MELTDOWN PLAYBOOK" in navy bold, then a small coral speech-bubble icon, then "HANNAH ROWE". Spine text must stay within the middle 56 px of the spine width.
+SPINE (vertical text, reading top to bottom, centered): "THE MELTDOWN PLAYBOOK" in navy bold, then a small coral speech-bubble icon, then "HANNAH ROWE". Spine text must stay within the middle 32 px of the spine width (0.0625 in clearance each side on a 70 px spine); if that is too small to read, leave the spine blank.
 
 BACK COVER (same cream background, navy text, left-aligned column, generous margins):
 - Headline (coral, bold): "You don't need more patience. You need the right words."
