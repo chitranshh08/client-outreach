@@ -1,0 +1,19 @@
+{
+  "name": "KDP non-fiction house style",
+  "genre": "practical non-fiction books (self-help, parenting, how-to) written in Markdown",
+  "register": [
+    "Plain, warm, direct; second person ('you'); short paragraphs; grade 6-8 reading level.",
+    "The pen name's brand bible (pen-names/<name>.md) is the voice authority; preserve it.",
+    "Bold is intentional for word-for-word scripts (SAY THIS lines) and card labels; do not flag or remove that bold. Flag only decorative bold elsewhere.",
+    "Headings may quote a child or parent (e.g. \"I Don't Want To!\"); those quotations are intentional hooks, not AI staging.",
+    "Never add statistics, studies, names, anecdotes or first-person experiences; flag the gap instead. Illustrative composite examples already in the text stay as written."
+  ],
+  "mechanics": {
+    "quotes": "straight",
+    "headings": "title",
+    "emDash": "sparing",
+    "latinAbbrev": "never",
+    "serialComma": true,
+    "spellNumbersUpTo": 9
+  }
+}

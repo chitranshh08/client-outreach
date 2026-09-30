@@ -48,13 +48,25 @@ Two-week cadence per book: days 1–2 blueprint · 3–7 drafting · 8–10 owne
 11–12 packaging · 13–14 upload and launch (KDP review can take up to 72 h).
 Research for the *next* book runs while the current one is being drafted.
 
+**Editorial review inside stages 2–3** uses three vendored skills. They return findings
+only unless the owner asks for revision:
+- `narrative-nonfiction`: arc, teaching and exercises
+- `prose-mechanics`: terminology and readability
+- `avoid-ai-writing`: AI patterns (always ask for "detect only" plus
+  `--style docs/house-style.json`)
+
+Routing, finding format and edit limits are in `docs/editorial-workflow.md`. No skill
+verifies facts; that stays a manual check against `sources.md`.
+
 ## Repo map
 
 ```
 CLAUDE.md               ← this file (goal, rules, pipeline)
 docs/kdp-rules.md       ← KDP facts, limits, compliance. Single source of truth.
 docs/quality-bar.md     ← what "perfect book" means here; review-maximizing standards
-.claude/skills/         ← one skill per pipeline stage
+docs/editorial-workflow.md ← which skill reviews/edits what; finding format; edit limits
+docs/skill-integration.md  ← provenance, versions and update steps for vendored skills
+.claude/skills/         ← pipeline skills (ours) + vendored editorial skills (see above)
 templates/              ← blank files copied into each new book / niche / pen name
 research/niches/        ← dated niche research reports with scorecards
 books/<slug>/           ← one folder per book (brief, outline, manuscript, listing, launch)

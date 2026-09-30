@@ -20,14 +20,21 @@ description: Draft the full manuscript chapter by chapter from an approved outli
    concrete steps/examples, and end with an action step or checklist.
 4. **Facts:** every statistic or study gets a real, checkable source, collected in
    `books/<slug>/sources.md`. If a source can't be verified, rewrite the claim without it.
-5. **After each chapter**, update `books/<slug>/progress.md` with the word count and any
-   open questions for the owner.
-6. **Full-book pass** when all chapters are done:
+5. **After each chapter**, update `books/<slug>/progress.md` with: word count, open
+   questions for the owner, and a short **continuity** list of defined terms (e.g. "Calm
+   Words Formula"), running examples, and promises made to the reader ("see Chapter 12").
+   Read that list before drafting the next chapter so terms and examples stay consistent
+   across sessions. Record owner decisions in `books/<slug>/sessions/YYYY-MM-DD_topic.md`.
+6. **Full-book pass** when all chapters are done. Reviews return findings; nothing is
+   rewritten until the owner approves (see `docs/editorial-workflow.md`):
    - Read-through for repetition, contradictions, and pacing.
-   - Scan for AI tells (list in CLAUDE.md) and rewrite them.
+   - Structure: `narrative-nonfiction` Stage 3 arc-integrity check on the manuscript.
+   - Terms and readability: `prose-mechanics` invented-term-consistency and readability audits.
+   - AI patterns: `avoid-ai-writing` in detect mode with `--style docs/house-style.json`.
    - Confirm the quick win lands within the first 10% of the total word count.
    - Tick every box in `docs/quality-bar.md` sections 1–3 and record the result in
      `progress.md`.
+   - Apply only owner-approved findings, then stop (max 2 review → revise cycles per lens).
 7. **Gate:** hand to the owner for their edit pass. Status → `editing` in the tracker.
    Apply their edits when they return comments.
 

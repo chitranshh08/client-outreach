@@ -30,5 +30,7 @@ description: Produce everything needed to upload a finished manuscript to KDP (l
    - DOCX for paperback interior: build DOCX, then the owner finalizes in Word/Kindle
      Create at the chosen trim size, or uses a KDP interior template.
    - If pandoc is missing, tell the owner and suggest Kindle Create or uploading DOCX.
+     (It is not installed in the default cloud image; see the export note in
+     `docs/skill-integration.md`.)
 5. **Gate:** owner approves listing and cover. Then they upload using the checklist in
    `docs/kdp-rules.md`. Status → `in-review`.

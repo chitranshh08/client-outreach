@@ -28,5 +28,7 @@ description: Turn an approved niche into a book blueprint (brief + title + outli
    the reader action at the end, and planned extras (templates/checklists).
    Put the **quick win** inside the first 10% of the book.
 5. **Log it** in `tracker/catalog.csv` with status `blueprint`.
+   Optional before the gate: ask `narrative-nonfiction` to "review the transformation
+   arc in books/<slug>/outline.md" (findings only; see `docs/editorial-workflow.md`).
 6. **Gate:** present title pick, promise, and outline. Wait for owner approval, then set
    status `drafting`.
