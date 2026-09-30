@@ -1,11 +1,11 @@
 # Cover Brief: The Meltdown Playbook (Book 1)
 
-> **Provisional.** Title, subtitle and pen name are placeholders chosen from the
+> **Title and subtitle confirmed 2026-09-30 (option A).** Pen name still provisional. Originally, title, subtitle and pen name were placeholders chosen from the
 > 2026-09-29 niche research so cover design can start. They get confirmed at the
 > `new-book` gate. Before approving, check Amazon for an exact-title clash.
 
 - **Title:** The Meltdown Playbook
-- **Subtitle:** What to Say and Do When Your Child's Big Feelings Take Over: Simple Scripts for Parents of Kids 2 to 7
+- **Subtitle:** The Exact Words to Calm Tantrums and Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (**confirmed by owner 2026-09-30**)
 - **Series:** Calm Words Parenting, Book 1 (later books: ages 8–12, teens, then a bundle)
 - **Author (pen name, provisional):** Hannah Rowe
 
@@ -43,8 +43,8 @@ Design a Kindle ebook front cover for a parenting book. Canvas: 1600 × 2560 px 
 TEXT (exact wording, no other text):
 - Top small line: "A Calm Words Parenting Guide"
 - Title: "The Meltdown Playbook"
-- Subtitle: "What to Say and Do When Your Child's Big Feelings Take Over"
-- Small line under subtitle: "Simple Scripts for Parents of Kids 2 to 7"
+- Subtitle: "The Exact Words to Calm Tantrums and Big Feelings"
+- Small line under subtitle: "Emotional Regulation Scripts for Parents of Kids 2 to 7"
 - Author at bottom: "Hannah Rowe"
 
 CONCEPT: The book gives parents the exact words to say during a child's meltdown. Central motif: one large, friendly speech bubble. Inside or bursting from it, a small hand-drawn storm cloud with a lightning bolt on one side changing into a soft sun on the other, showing chaos turning to calm. Simple, flat, hand-drawn illustration style with a slightly imperfect crayon or ink line, warm and reassuring, not cartoonish. No photos, no faces of crying children.
@@ -77,7 +77,7 @@ CANVAS: 3770 × 2775 px (12.565 × 9.25 in at 300 DPI). Layout left to right:
 - 37 px bleed on top and bottom as well. Extend the background color fully into all bleed areas.
 - Keep ALL text and important art at least 75 px inside the trim line (112 px from the outer canvas edge) and at least 20 px away from the spine folds.
 
-FRONT COVER: reproduce the approved front design exactly [attach/describe the winning variation]: title "The Meltdown Playbook", subtitle "What to Say and Do When Your Child's Big Feelings Take Over", small line "Simple Scripts for Parents of Kids 2 to 7", top line "A Calm Words Parenting Guide", author "Hannah Rowe". Same palette: cream #FBF6EE, navy #1E2A44, coral #F26B4F, yellow #F7C548.
+FRONT COVER: reproduce the approved front design exactly [attach/describe the winning variation]: title "The Meltdown Playbook", subtitle "The Exact Words to Calm Tantrums and Big Feelings", small line "Emotional Regulation Scripts for Parents of Kids 2 to 7", top line "A Calm Words Parenting Guide", author "Hannah Rowe". Same palette: cream #FBF6EE, navy #1E2A44, coral #F26B4F, yellow #F7C548.
 
 SPINE (vertical text, reading top to bottom, centered): "THE MELTDOWN PLAYBOOK" in navy bold, then a small coral speech-bubble icon, then "HANNAH ROWE". Spine text must stay within the middle 56 px of the spine width.
 

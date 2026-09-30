@@ -1,8 +1,8 @@
 # Progress: The Meltdown Playbook
 
-**Status:** drafting · Part 1 + Ch 4–7 drafted 2026-09-30 · awaiting owner read-through
+**Status:** drafting · Part 1 + Part 2 complete (Ch 1–10, all 30 moments) 2026-09-30 · awaiting owner read-through
 **Length policy (owner, 2026-09-30):** no fixed word thresholds; chapter lengths may go up or down to fit the content.
-**Working title (not final):** The Meltdown Playbook: The Exact Words to Calm Tantrums and
+**Title (confirmed by owner 2026-09-30):** The Meltdown Playbook: The Exact Words to Calm Tantrums and
 Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A in `brief.md`)
 
 ## Chapter status
@@ -18,7 +18,9 @@ Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A 
 | 06-hands-not-for-hitting.md | Ch 5 Hands Are Not for Hitting (Moments 7–10) + safe mad list | 1,634 | Drafted |
 | 07-everyones-staring.md | Ch 6 Everyone's Staring (Moments 11–15) + outing checklist | 1,771 | Drafted |
 | 08-out-the-door-into-bed.md | Ch 7 Out the Door and Into Bed (Moments 16–20) + routine chart | 1,627 | Drafted |
-| 09–11 | Part 2, Ch 8–10 (Moments 21–30 + When Nothing Works) | — | Not started |
+| 09-thats-mine.md | Ch 8 "That's Mine!" (Moments 21–24) + special time | 1,368 | Drafted |
+| 10-i-hate-you.md | Ch 9 "I Hate You!" (Moments 25–30) | 1,759 | Drafted |
+| 11-when-nothing-works.md | Ch 10 When Nothing Works + pediatrician signs + Say Less card | 1,478 | Drafted |
 | 11–13 | Part 3, Ch 11–13 | (≈5,100) | Not started |
 | 99-back-matter.md | Cheat sheet, sources, review ask, next book, bio | (≈1,200) | Not started |
 
@@ -53,6 +55,9 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - **script card**: 6 parts, always in this order: What's going on · Say this · If it gets bigger · Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time (Part 2 opener)
 - **Block first, talk later**: safety rule for hitting/biting/throwing (Ch 5)
 - Ch 6 tools: turn your back to the crowd; audience lines ("We're okay, thanks. Just a tough moment." / "Thanks. I've got this."); it's okay to leave; relatives line ("This is what's working for us."); outing checklist
+- Ch 8 tools: sportscaster, not judge; turn-taking instead of forced sharing; special time (5 min/day, named); equal vs fair
+- Ch 9 tools: comfort before fixing (feel it → let it finish → then fix); clear short goodbye ritual; "I love you even when you're mad at me"
+- Ch 10 tools: judge progress by shorter/faster/less often; Say Less (full → shorter → shortest); check underneath (HALT, big changes, pattern); sensory overload signs + less input; bring the tracker to the pediatrician
 - Ch 7 tools: routine chart ("What's next on the chart?"), bedtime ticket, brave tool (flashlight/blanket), car-only toy, night-before prep
 - Small tools introduced: concrete warnings ("three more slides"), visual timer, "when… then…", waiting kit (Ch 4); throw basket, hurt child first (Ch 5)
 - **dragon breath**: mentioned once in Ch 3 as a comfort option. Define it in Ch 11 (kid breathing) or cut it
@@ -67,9 +72,12 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Ch 5: **Lily**, 3, hits her mom over a second popsicle; **Sam** = the other child in Moment 8
 - Ch 6: **Ella**, 5, checkout-lane candy (and her dad)
 - Ch 7: **Jack**, 6, one sock at 7:50 am; bedtime stalling (and his mom)
+- Ch 8: **Rosie**, 6, and **Ben**, 3, knocked-down block castle (and their dad). Renamed from Mia to avoid confusion with Maya
+- Ch 9: **Owen**, 5, loses a board game to his grandpa
+- Ch 10: **Priya**, 4, still melts down over socks after a week of scripts
 
 **Promises made to the reader (must be delivered):**
-- Ch 10: signs it's time to talk to the pediatrician (promised in the intro, Ch 2, Ch 5 and the disclaimer; Ch 5 lists frequent / worsening / injuries / no trigger, and biting that continues at 6–7; Ch 7 adds night fears that are frequent, worsening or disrupt sleep for weeks)
+- Ch 10 ✓ DELIVERED: signs it's time to talk to the pediatrician (promised in the intro, Ch 2, Ch 5 and the disclaimer; Ch 5 lists frequent / worsening / injuries / no trigger, and biting that continues at 6–7; Ch 7 adds night fears that are frequent, worsening or disrupt sleep for weeks)
 - Ch 11: more feelings words for kids (promised in Ch 2)
 - Ch 12: how to repair after yelling (promised in the intro and Ch 1)
 - Part 2: 30 moments, each with the same layout, script in bold (intro)
@@ -77,7 +85,8 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Back cover promises "25+ moments" (30 planned ✓), "60-second reset" (✓ Ch 1), "age-by-age tips" (Part 2 age tweaks), "printable calm-down plan" (Ch 13)
 
 ## Open questions for the owner
-1. **Title:** confirm option A (used here), or pick B/C. If A, update the cover subtitle to match.
+0. Pen name "Hannah Rowe" still provisional: confirm or change before packaging.
+1. ~~Title~~: option A confirmed 2026-09-30. Cover brief prompts updated; regenerate the cover in Claude Design with the new subtitle.
 2. **Title clash:** search Amazon for "The Meltdown Playbook" (couldn't check automatically).
 3. **Section heading style:** keep sentence case for section headings (common in non-fiction), or switch to title case? Update `docs/house-style.json` to match the decision.
 4. **Sources S3 and S5:** skim the ACF report and *The Whole-Brain Child* reference (links in `sources.md`) before publishing.
