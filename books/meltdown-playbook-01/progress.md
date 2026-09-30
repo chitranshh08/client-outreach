@@ -1,6 +1,7 @@
 # Progress: The Meltdown Playbook
 
-**Status:** drafting · Part 1 drafted 2026-09-30 · awaiting owner read-through
+**Status:** drafting · Part 1 + Ch 4–5 drafted 2026-09-30 · awaiting owner read-through
+**Length policy (owner, 2026-09-30):** no fixed word thresholds; chapter lengths may go up or down to fit the content.
 **Working title (not final):** The Meltdown Playbook: The Exact Words to Calm Tantrums and
 Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A in `brief.md`)
 
@@ -13,7 +14,9 @@ Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A 
 | 02-calm-is-contagious.md | Part 1 opener + Ch 1 Calm Is Contagious | 1,415 (1,800) | Drafted |
 | 03-having-a-hard-time.md | Ch 2 Your Child Isn't Giving You a Hard Time | 1,599 (2,200) | Drafted |
 | 04-four-sentences.md | Ch 3 Four Sentences That Calm Almost Any Storm | 1,895 (2,500) | Drafted |
-| 05–10 | Part 2, Ch 4–10 (30 script cards) | (≈17,200) | Not started |
+| 05-everyday-battles.md | Part 2 opener + Ch 4 "I Don't Want To!" (Moments 1–6) | 1,834 | Drafted |
+| 06-hands-not-for-hitting.md | Ch 5 Hands Are Not for Hitting (Moments 7–10) + safe mad list | 1,634 | Drafted |
+| 07–11 | Part 2, Ch 6–10 (Moments 11–30 + When Nothing Works) | — | Not started |
 | 11–13 | Part 3, Ch 11–13 | (≈5,100) | Not started |
 | 99-back-matter.md | Cheat sheet, sources, review ask, next book, bio | (≈1,200) | Not started |
 
@@ -44,7 +47,10 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - **tantrum** = about getting something (hold the limit); **meltdown** = overwhelmed (comfort and safety first) (Ch 2). The book uses "meltdown" loosely elsewhere as the umbrella word.
 - **HALT + transitions**: Hungry, Angry, Lonely, Tired, plus transitions (Ch 2)
 - **After-the-storm talk**: What happened? How did you feel? What could we do next time? (Ch 3)
-- **"safe mad" list**: promised for Ch 5
+- **safe mad list**: delivered in Ch 5 (stomp, squeeze, roar into a pillow, push a wall, rip paper, mad page, tight hug) + printable
+- **script card**: 6 parts, always in this order: What's going on · Say this · If it gets bigger · Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time (Part 2 opener)
+- **Block first, talk later**: safety rule for hitting/biting/throwing (Ch 5)
+- Small tools introduced: concrete warnings ("three more slides"), visual timer, "when… then…", waiting kit (Ch 4); throw basket, hurt child first (Ch 5)
 - **dragon breath**: mentioned once in Ch 3 as a comfort option. Define it in Ch 11 (kid breathing) or cut it
 - **Your 5-Minute Action**: the heading used for every chapter's end-of-chapter action
 
@@ -53,9 +59,11 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Ch 1: **Maya**, 3, toast cut into rectangles (and her dad)
 - Ch 2: **Leo**, 5, no snack before dinner (and his mom)
 - Ch 3: **Ava**, 6, and friend **Zoe**, end of playdate; worked example of a 5-year-old and the tablet
+- Ch 4: **Noah**, 4, won't leave the playground at 5:15 pm (and his mom)
+- Ch 5: **Lily**, 3, hits her mom over a second popsicle; **Sam** = the other child in Moment 8
 
 **Promises made to the reader (must be delivered):**
-- Ch 10: signs it's time to talk to the pediatrician (promised in the intro, Ch 2 and the disclaimer)
+- Ch 10: signs it's time to talk to the pediatrician (promised in the intro, Ch 2, Ch 5 and the disclaimer; Ch 5 lists frequent / worsening / injuries / no trigger, and biting that continues at 6–7)
 - Ch 11: more feelings words for kids (promised in Ch 2)
 - Ch 12: how to repair after yelling (promised in the intro and Ch 1)
 - Part 2: 30 moments, each with the same layout, script in bold (intro)
