@@ -47,7 +47,17 @@ find your situation, say the words. It sits next to them, not against them (good
 | 4 | Say This, Not That | A Parent's Script Book for Tantrums, Meltdowns and Big Feelings (Ages 2–7) | 101 | Strong hook but "Say This, Not That" titles already exist |
 | 5 | The 60-Second Calm | Emotional Regulation for Parents: Stop Yelling, Calm Meltdowns and Raise a Resilient Kid | 106 | Leads with the parent's reset; less distinctive |
 
-**Recommended: #1.** It needs the cover subtitle updated to match (KDP flags covers whose
+**Hookier revisions (2026-09-30):**
+| # | Title | Subtitle | Chars | Notes |
+|---|---|---|---|---|
+| 1A | The Meltdown Playbook | The Exact Words to Calm Tantrums and Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 | 127 | **Recommended.** "Exact words" is a confident, checkable promise; keeps the main keyword |
+| 6 | Say This When They Lose It | Calm Words for Tantrums and Big Feelings: Emotional Regulation for Parents of Kids 2 to 7 | ~113 | Most hooky; works as a series brand for Book 2 ("Say This When They Talk Back") |
+| 7 | Calm Words, Calm Kids | What to Say to Stop Yelling, Calm Meltdowns and Raise a Resilient Child: Emotional Regulation for Parents (Ages 2 to 7) | 140 | Speaks to the parent's goal (stop yelling); less distinctive |
+
+Avoid: "in 60 seconds", "guaranteed", "never again" style promises. They raise clicks
+but cause "didn't work for my kid" 1★ reviews.
+
+**Recommended: #1A** (evolved from #1). It needs the cover subtitle updated to match (KDP flags covers whose
 text doesn't match the metadata). The exact-title clash check is running in the
 2026-09-30 scan.
 
