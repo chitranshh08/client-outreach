@@ -1,6 +1,6 @@
 # Progress: The Meltdown Playbook
 
-**Status:** drafting · Part 1 + Ch 4–5 drafted 2026-09-30 · awaiting owner read-through
+**Status:** drafting · Part 1 + Ch 4–7 drafted 2026-09-30 · awaiting owner read-through
 **Length policy (owner, 2026-09-30):** no fixed word thresholds; chapter lengths may go up or down to fit the content.
 **Working title (not final):** The Meltdown Playbook: The Exact Words to Calm Tantrums and
 Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A in `brief.md`)
@@ -16,7 +16,9 @@ Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A 
 | 04-four-sentences.md | Ch 3 Four Sentences That Calm Almost Any Storm | 1,895 (2,500) | Drafted |
 | 05-everyday-battles.md | Part 2 opener + Ch 4 "I Don't Want To!" (Moments 1–6) | 1,834 | Drafted |
 | 06-hands-not-for-hitting.md | Ch 5 Hands Are Not for Hitting (Moments 7–10) + safe mad list | 1,634 | Drafted |
-| 07–11 | Part 2, Ch 6–10 (Moments 11–30 + When Nothing Works) | — | Not started |
+| 07-everyones-staring.md | Ch 6 Everyone's Staring (Moments 11–15) + outing checklist | 1,771 | Drafted |
+| 08-out-the-door-into-bed.md | Ch 7 Out the Door and Into Bed (Moments 16–20) + routine chart | 1,627 | Drafted |
+| 09–11 | Part 2, Ch 8–10 (Moments 21–30 + When Nothing Works) | — | Not started |
 | 11–13 | Part 3, Ch 11–13 | (≈5,100) | Not started |
 | 99-back-matter.md | Cheat sheet, sources, review ask, next book, bio | (≈1,200) | Not started |
 
@@ -50,6 +52,8 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - **safe mad list**: delivered in Ch 5 (stomp, squeeze, roar into a pillow, push a wall, rip paper, mad page, tight hug) + printable
 - **script card**: 6 parts, always in this order: What's going on · Say this · If it gets bigger · Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time (Part 2 opener)
 - **Block first, talk later**: safety rule for hitting/biting/throwing (Ch 5)
+- Ch 6 tools: turn your back to the crowd; audience lines ("We're okay, thanks. Just a tough moment." / "Thanks. I've got this."); it's okay to leave; relatives line ("This is what's working for us."); outing checklist
+- Ch 7 tools: routine chart ("What's next on the chart?"), bedtime ticket, brave tool (flashlight/blanket), car-only toy, night-before prep
 - Small tools introduced: concrete warnings ("three more slides"), visual timer, "when… then…", waiting kit (Ch 4); throw basket, hurt child first (Ch 5)
 - **dragon breath**: mentioned once in Ch 3 as a comfort option. Define it in Ch 11 (kid breathing) or cut it
 - **Your 5-Minute Action**: the heading used for every chapter's end-of-chapter action
@@ -61,13 +65,15 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Ch 3: **Ava**, 6, and friend **Zoe**, end of playdate; worked example of a 5-year-old and the tablet
 - Ch 4: **Noah**, 4, won't leave the playground at 5:15 pm (and his mom)
 - Ch 5: **Lily**, 3, hits her mom over a second popsicle; **Sam** = the other child in Moment 8
+- Ch 6: **Ella**, 5, checkout-lane candy (and her dad)
+- Ch 7: **Jack**, 6, one sock at 7:50 am; bedtime stalling (and his mom)
 
 **Promises made to the reader (must be delivered):**
-- Ch 10: signs it's time to talk to the pediatrician (promised in the intro, Ch 2, Ch 5 and the disclaimer; Ch 5 lists frequent / worsening / injuries / no trigger, and biting that continues at 6–7)
+- Ch 10: signs it's time to talk to the pediatrician (promised in the intro, Ch 2, Ch 5 and the disclaimer; Ch 5 lists frequent / worsening / injuries / no trigger, and biting that continues at 6–7; Ch 7 adds night fears that are frequent, worsening or disrupt sleep for weeks)
 - Ch 11: more feelings words for kids (promised in Ch 2)
 - Ch 12: how to repair after yelling (promised in the intro and Ch 1)
 - Part 2: 30 moments, each with the same layout, script in bold (intro)
-- Printables: pocket card (Ch 1 ✓), meltdown tracker (Ch 2 ✓), fill-in card (Ch 3 ✓), calm-down corner checklist (Ch 11), routine chart (Ch 7), 30-day plan and Calm-Down Plan (Ch 13), cheat sheet (back matter)
+- Printables: pocket card (Ch 1 ✓), meltdown tracker (Ch 2 ✓), fill-in card (Ch 3 ✓), calm-down corner checklist (Ch 11), routine chart (Ch 7 ✓), outing checklist (Ch 6 ✓), safe mad list (Ch 5 ✓), 30-day plan and Calm-Down Plan (Ch 13), cheat sheet (back matter)
 - Back cover promises "25+ moments" (30 planned ✓), "60-second reset" (✓ Ch 1), "age-by-age tips" (Part 2 age tweaks), "printable calm-down plan" (Ch 13)
 
 ## Open questions for the owner
