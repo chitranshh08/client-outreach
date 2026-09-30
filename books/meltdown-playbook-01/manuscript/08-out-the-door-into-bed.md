@@ -113,7 +113,7 @@ conversation. **"It's sleep time. I love you."**
 - **4–5:** Offer a "bedtime ticket": one free trip out of bed (for water, a hug, the toilet).
   Once it's used, it's used.
 - **6–7:** Let them read quietly to themselves for a set time after lights out. It gives them
-  some control, and it helps many children wind down.
+  some control, and it helps some children wind down.
 
 **Next time:** Build the connection they're asking for into the routine itself. Five minutes of
 one-on-one chat before lights out often cuts down on the stalling that comes after.

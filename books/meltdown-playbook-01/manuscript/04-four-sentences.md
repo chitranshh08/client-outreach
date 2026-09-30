@@ -171,7 +171,7 @@ often makes the feeling come out another way. *Instead, try:* **"It's okay to cr
 staying with you."**
 
 **"One… two… three…"** Counting can get quick results, but it doesn't teach anything about
-feelings, and many children learn to wait for "two and a half." *Instead, try:* hold the
+feelings, and some children learn to wait for "two and a half." *Instead, try:* hold the
 limit and offer a choice.
 
 **Bribes ("If you stop crying, you can have a lollipop").** A bribe in the moment teaches

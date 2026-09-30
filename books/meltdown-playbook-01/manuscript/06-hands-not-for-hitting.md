@@ -80,7 +80,7 @@ to be safe. Once the storm passes, reconnect: **"That was a big mad. You're okay
 - **6–7:** Afterward, talk about repair. "When you hit me, it hurt. What could you do to help
   fix it?" A hug, a drawing, or a sorry works. Don't force the word "sorry" during the storm.
 
-**Next time:** Look for the build-up. Many children tense up, get louder or clench their fists
+**Next time:** Look for the build-up. Some children tense up, get louder or clench their fists
 before they hit. When you see the signs, step in early: "I can see you're getting mad.
 Want to stomp it out?"
 

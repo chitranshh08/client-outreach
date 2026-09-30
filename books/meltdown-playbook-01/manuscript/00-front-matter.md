@@ -93,15 +93,19 @@ people. Any resemblance to a specific family is coincidental.
   - Chapter 3: Four Sentences That Calm Almost Any Storm
 - **Part 2: The Playbook: 30 Moments, 30 Scripts**
   - Chapter 4: "I Don't Want To!": Ending Everyday Battles Without a Fight
-  - Chapter 5: Hands Are Not for Hitting
+  - Chapter 5: Hands Are Not for Hitting: Stopping Hitting, Biting and Throwing Calmly
   - Chapter 6: Everyone's Staring: Handling Public Meltdowns With Confidence
-  - Chapter 7: Out the Door and Into Bed
+  - Chapter 7: Out the Door and Into Bed: Mornings and Bedtimes Without the War
   - Chapter 8: "That's Mine!": Siblings, Sharing and Keeping the Peace
   - Chapter 9: "I Hate You!": Big Disappointments, Big Fears, Big Words
-  - Chapter 10: When Nothing Works
+  - Chapter 10: When Nothing Works: What to Do When the Script Falls Flat
 - **Part 3: Fewer Storms Ahead**
-  - Chapter 11: Feelings School
+  - Chapter 11: Feelings School: Teaching Calm When Everyone Is Calm
   - Chapter 12: I Yelled. Now What? The Repair Script
   - Chapter 13: Your 30-Day Calmer Home Plan
+- Thank You for Reading
 - The 30 Scripts Cheat Sheet
 - Sources
+- What's Next
+- Stay Connected
+- About the Author

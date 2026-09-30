@@ -1,6 +1,6 @@
 # Progress: The Meltdown Playbook
 
-**Status:** drafting · Part 1 + Part 2 complete (Ch 1–10, all 30 moments) 2026-09-30 · awaiting owner read-through
+**Status:** FULL DRAFT COMPLETE 2026-09-30 (front matter, intro, Ch 1–13, back matter; ≈ 22,200 words) · awaiting owner edit pass · awaiting owner read-through
 **Length policy (owner, 2026-09-30):** no fixed word thresholds; chapter lengths may go up or down to fit the content.
 **Title (confirmed by owner 2026-09-30):** The Meltdown Playbook: The Exact Words to Calm Tantrums and
 Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A in `brief.md`)
@@ -21,8 +21,10 @@ Big Feelings: Emotional Regulation Scripts for Parents of Kids 2 to 7 (option A 
 | 09-thats-mine.md | Ch 8 "That's Mine!" (Moments 21–24) + special time | 1,368 | Drafted |
 | 10-i-hate-you.md | Ch 9 "I Hate You!" (Moments 25–30) | 1,759 | Drafted |
 | 11-when-nothing-works.md | Ch 10 When Nothing Works + pediatrician signs + Say Less card | 1,478 | Drafted |
-| 11–13 | Part 3, Ch 11–13 | (≈5,100) | Not started |
-| 99-back-matter.md | Cheat sheet, sources, review ask, next book, bio | (≈1,200) | Not started |
+| 12-feelings-school.md | Part 3 opener + Ch 11 Feelings School + calm-down corner checklist | 1,324 | Drafted |
+| 13-repair-script.md | Ch 12 I Yelled. Now What? + repair card | 1,107 | Drafted |
+| 14-thirty-day-plan.md | Ch 13 30-Day Plan + family Calm-Down Plan | 1,040 | Drafted |
+| 99-back-matter.md | Thank you + review ask, 30-script cheat sheet, sources, what's next, stay connected, bio | 966 | Drafted (placeholders: REVIEW-LINK, @HANDLE) |
 
 Part 1 total ≈ 5,670 words vs ≈ 7,700 planned: written short on purpose for tired readers
 (quality bar: never pad). Expect the full book to land around 25–28k words (≈ 120–130
@@ -39,6 +41,18 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Quick win: the 3-Line Meltdown Script starts at ≈ word 1,450 of ~26k, well inside the first 10%.
 - Pen-name honesty: removed an implied "I'm a parent too" line from the intro. The pen
   name never claims parenthood or credentials.
+
+## Full-draft verification (2026-09-30)
+- Detector: all 16 files "Minimal AI signals" (score 1; front matter 7 from genuine index lists). House style: 0 hard violations in every file. Em dashes: 0.
+- Approx. FK grade 3.4–5.9 across chapters (target ≤ 8).
+- Structure: 30 moments, sequential; Find Your Moment index matches all 30 headings; contents rebuilt from real headings; every "Chapter N" cross-reference resolves.
+- Sources: S1–S8 all cited in text and listed in back-matter Sources; footnote refs = defs in every file. S3 and S5 still need an owner/editor glance at the originals; S2, S6, S7 re-read before publishing.
+- Claims: 5 more "many/most children" generalizations softened; no first-person parent claims anywhere (pen-name honesty).
+- Characters: 15 composite names, no reuse across chapters.
+- Quick win: 60-Second Reset at 7.5%, 3-Line Script at 8.7% of the book (inside the 10% Look Inside sample; keep front matter from growing).
+- Promises: all delivered (Ch 10 pediatrician signs, Ch 11 feelings words + dragon breath, Ch 12 repair, printables, 30 moments, age tweaks, fridge Calm-Down Plan).
+- Quality bar sections 1–3: all boxes ticked except "owner's human edit pass" (pending) and sources S3/S5 final check.
+- Not yet run: formal narrative-nonfiction Stage 3 arc review (optional, findings only).
 
 ## Continuity (read before drafting the next chapter)
 
@@ -60,7 +74,8 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Ch 10 tools: judge progress by shorter/faster/less often; Say Less (full → shorter → shortest); check underneath (HALT, big changes, pattern); sensory overload signs + less input; bring the tracker to the pediatrician
 - Ch 7 tools: routine chart ("What's next on the chart?"), bedtime ticket, brave tool (flashlight/blanket), car-only toy, night-before prep
 - Small tools introduced: concrete warnings ("three more slides"), visual timer, "when… then…", waiting kit (Ch 4); throw basket, hurt child first (Ch 5)
-- **dragon breath**: mentioned once in Ch 3 as a comfort option. Define it in Ch 11 (kid breathing) or cut it
+- **dragon breath**: mentioned in Ch 3, defined in Ch 11 ✓ (plus blow out the candle, smell the flower, belly buddy)
+- **calm-down corner**, **Feelings School**, **inside weather report**, **feelings charades** (Ch 11); **Repair Script** 3 parts (Ch 12); **30-Day Calmer Home Plan** + **Calm-Down Plan** (Ch 13)
 - **Your 5-Minute Action**: the heading used for every chapter's end-of-chapter action
 
 **Running examples / characters (illustrative composites):**
@@ -75,11 +90,13 @@ pages at 6×9). Re-run the cover spine calculation at packaging.
 - Ch 8: **Rosie**, 6, and **Ben**, 3, knocked-down block castle (and their dad). Renamed from Mia to avoid confusion with Maya
 - Ch 9: **Owen**, 5, loses a board game to his grandpa
 - Ch 10: **Priya**, 4, still melts down over socks after a week of scripts
+- Ch 11: **Nora**, 4, pancake feelings game (and her dad)
+- Ch 12: **Finn**, 5, spilled milk; his mom yells (renamed from Sam, who is Ch 5's other child)
 
 **Promises made to the reader (must be delivered):**
 - Ch 10 ✓ DELIVERED: signs it's time to talk to the pediatrician (promised in the intro, Ch 2, Ch 5 and the disclaimer; Ch 5 lists frequent / worsening / injuries / no trigger, and biting that continues at 6–7; Ch 7 adds night fears that are frequent, worsening or disrupt sleep for weeks)
-- Ch 11: more feelings words for kids (promised in Ch 2)
-- Ch 12: how to repair after yelling (promised in the intro and Ch 1)
+- Ch 11 ✓: more feelings words for kids (promised in Ch 2)
+- Ch 12 ✓: how to repair after yelling (promised in the intro and Ch 1)
 - Part 2: 30 moments, each with the same layout, script in bold (intro)
 - Printables: pocket card (Ch 1 ✓), meltdown tracker (Ch 2 ✓), fill-in card (Ch 3 ✓), calm-down corner checklist (Ch 11), routine chart (Ch 7 ✓), outing checklist (Ch 6 ✓), safe mad list (Ch 5 ✓), 30-day plan and Calm-Down Plan (Ch 13), cheat sheet (back matter)
 - Back cover promises "25+ moments" (30 planned ✓), "60-second reset" (✓ Ch 1), "age-by-age tips" (Part 2 age tweaks), "printable calm-down plan" (Ch 13)

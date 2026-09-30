@@ -140,8 +140,8 @@ The first few times you use the reset and the script, your child may seem to mel
 *harder*. Some children test a new response to see if it's real. Others are surprised
 that the grown-up didn't yell, and they aren't sure what to do with that.
 
-Keep going. Use the same words for at least a week. Most children settle into a new
-pattern once they see that it doesn't change.
+Keep going. Use the same words for at least a week. Staying consistent is what helps a new
+pattern settle in.
 
 ## When you're the one about to lose it
 

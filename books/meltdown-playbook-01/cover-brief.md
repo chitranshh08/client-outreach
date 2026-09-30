@@ -21,7 +21,7 @@
 |---|---|
 | Ebook front | 1600 × 2560 px, RGB, JPG |
 | Paperback trim | 6 × 9 in, white paper, black-and-white interior |
-| Est. page count | 140 (re-run the KDP cover calculator when final) |
+| Est. page count | ~100–115 after full draft (was 140). Re-run the KDP cover calculator when the interior is laid out |
 | Spine | 140 × 0.002252 in = 0.315 in |
 | Full wrap | 12.565 × 9.25 in incl. 0.125 in bleed → 3770 × 2775 px at 300 DPI |
 | Barcode area | Keep 2 × 1.2 in clear, bottom right of back cover |

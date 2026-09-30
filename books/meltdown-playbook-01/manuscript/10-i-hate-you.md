@@ -169,7 +169,7 @@ talk about it together.
 **Age tweaks:**
 
 - **2–3:** Stay close and let them watch from a safe distance.
-- **4–5:** Use picture books about the thing they fear. Many children feel braver after
+- **4–5:** Use picture books about the thing they fear. Some children feel braver after
   reading about it.
 - **6–7:** Help them take small brave steps, like waving at a friendly dog from far away, then
   a little closer another day.
