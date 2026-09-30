@@ -51,7 +51,7 @@ def fetch(url, tries=3):
 
 
 def pause():
-    time.sleep(random.uniform(6.0, 12.0))
+    time.sleep(random.uniform(12.0, 20.0))
 
 
 def clean(s):
