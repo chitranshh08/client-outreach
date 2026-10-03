@@ -103,6 +103,7 @@ to the front matter or intro. If the sample needs more room, shorten the Find Yo
 - Book 1 cross-references: Calm Words Formula (Ch 2 ✓), 3-Line Meltdown Script (Ch 3 ✓)
 
 ## Open questions for the owner
+0. **Full review 2026-10-03** (`sessions/2026-10-03_full-review.md`): 6 warnings, 10 suggestions, 5 notes. Awaiting owner approval of which to apply.
 1. ~~Length~~: owner said keep it tight (2026-10-03).
 2. Sources S4 (AAP policy statement), S5 (Straus & Field) and S7 (Kazdin) were verified from summaries/abstracts. Skim the originals before publishing.
 3. Book 1 is named but not linked in "Also in the Calm Words Parenting Series" (the build has no link placeholder for it yet). Add the link at packaging, or keep it as text?
