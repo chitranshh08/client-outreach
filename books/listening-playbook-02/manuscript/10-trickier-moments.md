@@ -41,8 +41,8 @@ you.
 - **6–7:** Let them help plan: **"What will help you remember the rules there?"**
 
 **Next time:** Plan your exit line before you arrive, and tell your child what it is.
-**"When I say 'shoes on,' that means we're leaving in two minutes."** Then use the exact line
-when it's time.
+**"When I say 'two more minutes,' we're leaving soon."** Then use that exact line when it's
+time, and leave when the two minutes are up.
 
 ---
 

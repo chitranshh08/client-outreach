@@ -6,7 +6,7 @@
 - **Strategy report:** research/niches/2026-10-01-book2-series-strategy.md
 - **Niche score:** 73/100, GO (research/niches/2026-10-03-listening-playbook-rescore.md)
 - **Formats:** Kindle ebook + 6×9 paperback (both, same as Book 1)
-- **Status:** drafting. Niche GO (73), title final, outline approved (2026-10-03). Part 1 drafted
+- **Status:** editing. Full draft complete 2026-10-03 (≈ 19.6k words); awaiting the owner's edit pass
 
 ## Reader avatar
 Same parent as Book 1, so the books sell to each other.

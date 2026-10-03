@@ -1,6 +1,6 @@
 # Progress: The Listening Playbook
 
-**Status:** DRAFTING. Part 1 + Part 2 drafted 2026-10-03 (front matter through Ch 10, all 30 moments). Next: Part 3 (Ch 11–12) + back matter.
+**Status:** FULL DRAFT COMPLETE 2026-10-03 (≈ 19,600 words, all 12 chapters + back matter). Next: owner's edit pass (gate) → packaging.
 **Owner (2026-10-03):** keep it tight. No padding; shorter chapters are fine.
 **Title (final, 2026-10-03):** The Listening Playbook: The Exact Words to Get Kids to Listen Without Yelling,
 Nagging or Bribes: Toddler and Child Discipline Scripts for Ages 2 to 7
@@ -22,13 +22,14 @@ Nagging or Bribes: Toddler and Child Discipline Scripts for Ages 2 to 7
 | 09-whining-rude-words.md | Ch 8 (Moments 23–27) | 1462 (2,200) | Drafted |
 | 10-trickier-moments.md | Ch 9 (Moments 28–30) | 1105 (1,800) | Drafted; sources S12–S13 |
 | 11-still-wont-listen.md | Ch 10 When They Still Won't Listen | 975 (1,800) | Drafted; sources S14–S15 |
-| 12-fewer-reminders.md | Part 3 opener + Ch 11 | (1,800) | Not started |
-| 13-fourteen-day-challenge.md | Ch 12 | (1,300) | Not started |
-| 99-back-matter.md | Thank you + review ask, cheat sheet, sources, series, bio | (1,200) | Not started |
+| 12-fewer-reminders.md | Part 3 opener + Ch 11 | 980 (1,800) | Drafted, incl. family rules poster |
+| 13-fourteen-day-challenge.md | Ch 12 | 901 (1,300) | Drafted, incl. 14-day tracker |
+| 99-back-matter.md | Thank you + review ask, cheat sheet, sources, series, bio | 1,151 (1,200) | Drafted (placeholders: REVIEW-LINK, @HANDLE; Book 1 named, not linked) |
 
-Part 1 ≈ 6,800 words incl. front matter; Part 2 ≈ 9,800. Book projected at ≈ 21k words (≈ 95–105 pages at 6×9),
-shorter than the 25–28k plan, per the owner's "keep it tight" call. Quick win at ≈ word 1,800 ≈ 8.5% of 21k:
-still inside the Look Inside sample, but don't add anything to the front matter or intro.
+Part 1 ≈ 6,800 words incl. front matter; Part 2 ≈ 9,750; Part 3 ≈ 1,900; back matter ≈ 1,150. **Total ≈ 19,600 words**
+(≈ 90–100 pages at 6×9 with printables), per the owner's "keep it tight" call.
+**Quick win at word 1,757 = 9.0% of the book.** Inside the Look Inside sample, but with little margin: don't add anything
+to the front matter or intro. If the sample needs more room, shorten the Find Your Moment list layout at packaging.
 
 ## Self-check results (2026-10-03, Part 1)
 - AI-pattern detector (avoid-ai-writing `analyzeText`): every file "Minimal AI signals" (score 1–2; front matter 6 from its index lists). Fixed: one vague attribution ("research suggests"), one hollow intensifier ("let's be clear").
@@ -50,6 +51,19 @@ still inside the Look Inside sample, but don't add anything to the front matter 
 - Claims: softened 10 unsourced generalizations to "can/sometimes/many"; lying stat matched to source (30%, not "a third"); CDC ignoring wording matched ("may get worse when you first start").
 - Consequences checked against Ch 3's rule (never take away food, sleep, comfort or time with you): Moment 8 changed from "no story" to "one short song instead"; Moment 18 serves food at the next planned meal, never withholds it.
 - Safety: Moment 9 (streets/parking lots: skip the ladder), Moment 16 (stay with your child in the bath), Ch 10 pediatrician signs.
+
+## Full-draft verification (2026-10-03)
+- Detector: every file "Minimal AI signals" (score 1–2; front matter 6 from index lists). Part 3 + back matter: score 1.
+- House style: 0 hard violations in all 15 files. Advisories only (heading case, list numbers). Em dashes: 0.
+- Approx. FK grade 3.9–5.7 across chapters (target ≤ 8).
+- Structure: 12 chapters, 30 moments in order; contents matches every chapter heading; every "Chapter N" and "Moment N" cross-reference resolves.
+- Footnotes: refs = defs in every file. Sources S1–S15 all cited; back-matter Sources list maps each to its chapters.
+- Cheat sheet built from the actual **Say this** lines (Moment 28's exit line made consistent while building it).
+- Claims: 4 more generalizations softened in Part 3. Checkbox glyphs replaced with "Yes / Not yet" text for Kindle.
+- Promises: all delivered (Ch 10 pediatrician signs + adults on the same page; Ch 11 fewer instructions + family rules; Ch 12 challenge with Day 1 vs Day 14 counts; all printables: One Clear Ask card, Consequence Picker, Ladder card, "When… then…" chart, family rules poster, 14-day tracker, cheat sheet).
+- Review ask placed right after Ch 12 (peak satisfaction), neutral wording, no star request.
+- Quality bar sections 1–3: all boxes ticked except the owner's human edit pass (pending) and a final read of S4/S5/S7/S10 originals.
+- Not yet run (optional, findings only): narrative-nonfiction Stage 3 arc review; prose-mechanics term-consistency audit.
 
 ## Continuity (read before drafting the next chapter)
 
@@ -81,14 +95,15 @@ still inside the Look Inside sample, but don't add anything to the front matter 
 **Promises made to the reader (must be delivered):**
 - Ch 10 ✓ DELIVERED: signs it's time to talk to the pediatrician (hearing check S14, hard everywhere, lost skills S15, safety, worry)
 - Ch 10 ✓ DELIVERED: getting the adults on the same page (promised in Moment 5)
-- Ch 11: fewer instructions per day (promised in Ch 2's action; Ch 10 also says "cut asks in half")
-- Ch 11: how to write 3–5 family rules (promised in Moment 12)
-- Ch 12: 14-day challenge; compare repeat count vs Day 1 (Ch 1 action asks the reader to notice counts)
+- Ch 11 ✓: fewer instructions per day (three piles: Must / Matters / Let go)
+- Ch 11 ✓: how to write 3–5 family rules + poster
+- Ch 12 ✓: 14-day challenge; Day 1 vs Day 14 counts + tracker
 - Part 2: 30 moments, same layout, bold scripts, every card ends with "If they still don't" (intro)
-- Printables: One Clear Ask pocket card (Ch 1 ✓), Consequence Picker (Ch 3 ✓), Ladder pocket card (Ch 3 ✓), "When… then…" chart (Ch 6 ✓), family rules poster (Ch 11), 14-day tracker (Ch 12), cheat sheet (back matter)
+- Printables: One Clear Ask pocket card (Ch 1 ✓), Consequence Picker (Ch 3 ✓), Ladder pocket card (Ch 3 ✓), "When… then…" chart (Ch 6 ✓), family rules poster (Ch 11 ✓), 14-day tracker (Ch 12 ✓), cheat sheet (back matter ✓)
 - Book 1 cross-references: Calm Words Formula (Ch 2 ✓), 3-Line Meltdown Script (Ch 3 ✓)
 
 ## Open questions for the owner
 1. ~~Length~~: owner said keep it tight (2026-10-03).
 2. Sources S4 (AAP policy statement), S5 (Straus & Field) and S7 (Kazdin) were verified from summaries/abstracts. Skim the originals before publishing.
-3. Pocket cards and the Consequence Picker will also need a download link (as in Book 1's plan). Same printables page for both books?
+3. Book 1 is named but not linked in "Also in the Calm Words Parenting Series" (the build has no link placeholder for it yet). Add the link at packaging, or keep it as text?
+4. Pocket cards and the Consequence Picker will also need a download link (as in Book 1's plan). Same printables page for both books?
