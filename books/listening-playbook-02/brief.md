@@ -88,7 +88,7 @@ Superseded (same day): "…: Positive Discipline Scripts for Parents of Kids 2 t
 Cover text must match the final title and subtitle exactly.
 
 ## Format & business decisions
-- **Target word count:** ~25,000–28,000 (Book 1 landed at ~26k; ≈ 110–125 pages at 6×9).
+- **Target word count:** ~21,000 (owner, 2026-10-03: keep it tight; ≈ 95–105 pages at 6×9).
   No padding: chapter lengths follow the content.
 - **Trim size:** 6×9 in, white paper, B&W interior. Same build pipeline as Book 1
   (`tools/book_build/`), so the books match on the shelf.

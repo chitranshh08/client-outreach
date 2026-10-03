@@ -1,6 +1,7 @@
 # Progress: The Listening Playbook
 
-**Status:** DRAFTING. Part 1 drafted 2026-10-03 (front matter, Start Here, Ch 1–3). Next: Part 2 opener + Ch 4.
+**Status:** DRAFTING. Part 1 + Part 2 drafted 2026-10-03 (front matter through Ch 10, all 30 moments). Next: Part 3 (Ch 11–12) + back matter.
+**Owner (2026-10-03):** keep it tight. No padding; shorter chapters are fine.
 **Title (final, 2026-10-03):** The Listening Playbook: The Exact Words to Get Kids to Listen Without Yelling,
 Nagging or Bribes: Toddler and Child Discipline Scripts for Ages 2 to 7
 **Length policy (owner, Book 1, carried over):** no fixed word thresholds; chapters follow the content. Never pad.
@@ -14,19 +15,20 @@ Nagging or Bribes: Toddler and Child Discipline Scripts for Ages 2 to 7
 | 02-one-clear-ask.md | Part 1 opener + Ch 1 One Clear Ask | 1,449 (2,000) | Drafted |
 | 03-why-kids-tune-out.md | Ch 2 Why Kids Tune Out | 1,521 (2,000) | Drafted |
 | 04-follow-through-ladder.md | Ch 3 The Follow-Through Ladder + Consequence Picker | 2,274 (2,500) | Drafted |
-| 05-in-a-minute.md | Part 2 opener + Ch 4 (Moments 1–6) | (2,400) | Not started |
-| 06-not-the-boss.md | Ch 5 (Moments 7–12) | (2,600) | Not started |
-| 07-toys-away.md | Ch 6 (Moments 13–17) | (2,200) | Not started |
-| 08-table-talk.md | Ch 7 (Moments 18–22) | (2,000) | Not started; add feeding source first |
-| 09-whining-rude-words.md | Ch 8 (Moments 23–27) | (2,200) | Not started |
-| 10-trickier-moments.md | Ch 9 (Moments 28–30) | (1,800) | Not started |
-| 11-still-wont-listen.md | Ch 10 When They Still Won't Listen | (1,800) | Not started; add when-to-call source first |
+| 05-in-a-minute.md | Part 2 opener + Ch 4 (Moments 1–6) | 1750 (2,400) | Drafted |
+| 06-not-the-boss.md | Ch 5 (Moments 7–12) | 1688 (2,600) | Drafted |
+| 07-toys-away.md | Ch 6 (Moments 13–17) | 1375 (2,200) | Drafted, incl. "When… then…" chart |
+| 08-table-talk.md | Ch 7 (Moments 18–22) | 1397 (2,000) | Drafted; feeding source S10 added |
+| 09-whining-rude-words.md | Ch 8 (Moments 23–27) | 1462 (2,200) | Drafted |
+| 10-trickier-moments.md | Ch 9 (Moments 28–30) | 1105 (1,800) | Drafted; sources S12–S13 |
+| 11-still-wont-listen.md | Ch 10 When They Still Won't Listen | 975 (1,800) | Drafted; sources S14–S15 |
 | 12-fewer-reminders.md | Part 3 opener + Ch 11 | (1,800) | Not started |
 | 13-fourteen-day-challenge.md | Ch 12 | (1,300) | Not started |
 | 99-back-matter.md | Thank you + review ask, cheat sheet, sources, series, bio | (1,200) | Not started |
 
-Part 1 total ≈ 6,800 words incl. front matter. Written tighter than the outline on purpose
-(same call as Book 1: tired readers, no padding).
+Part 1 ≈ 6,800 words incl. front matter; Part 2 ≈ 9,800. Book projected at ≈ 21k words (≈ 95–105 pages at 6×9),
+shorter than the 25–28k plan, per the owner's "keep it tight" call. Quick win at ≈ word 1,800 ≈ 8.5% of 21k:
+still inside the Look Inside sample, but don't add anything to the front matter or intro.
 
 ## Self-check results (2026-10-03, Part 1)
 - AI-pattern detector (avoid-ai-writing `analyzeText`): every file "Minimal AI signals" (score 1–2; front matter 6 from its index lists). Fixed: one vague attribution ("research suggests"), one hollow intensifier ("let's be clear").
@@ -38,6 +40,16 @@ Part 1 total ≈ 6,800 words incl. front matter. Written tighter than the outlin
 - Pen-name honesty: no parenthood or credential claims. "I" used only as the guide's voice, as in Book 1.
 - Trademark safety: no "Positive Discipline" phrase or Nelsen's framework anywhere; consequence rule sourced to AACAP.
 - No overlap with Book 1's 30 moments. Book 1 tools are referenced in 2–3 sentences, not re-taught.
+
+## Self-check results (2026-10-03, Part 2)
+- Detector: all 7 files "Minimal AI signals" (score 1–2). Fixed: "genuinely", one negation chain. Kept two flags as intended advice ("research shows" is attributed to ZERO TO THREE; "a question you already know the answer to" is the Moment 30 tip).
+- House style: 0 hard violations. Heading-case advisories only (same convention as Book 1: named steps in title case, other section headings in sentence case; owner decision still open from Book 1).
+- Approx. FK grade 4.2–5.7. Em dashes: 0.
+- Moments 1–30 numbered in order; Find Your Moment list matches all 30.
+- Every card has: What's going on · Say this · If they still don't (ladder rungs) · Instead of / Try · Age tweaks · Next time.
+- Claims: softened 10 unsourced generalizations to "can/sometimes/many"; lying stat matched to source (30%, not "a third"); CDC ignoring wording matched ("may get worse when you first start").
+- Consequences checked against Ch 3's rule (never take away food, sleep, comfort or time with you): Moment 8 changed from "no story" to "one short song instead"; Moment 18 serves food at the next planned meal, never withholds it.
+- Safety: Moment 9 (streets/parking lots: skip the ladder), Moment 16 (stay with your child in the bath), Ch 10 pediatrician signs.
 
 ## Continuity (read before drafting the next chapter)
 
@@ -57,22 +69,26 @@ Part 1 total ≈ 6,800 words incl. front matter. Written tighter than the outlin
 - **Your 5-Minute Action**: heading for every chapter's end action (same as Book 1)
 - Script card for Part 2 (always this order): What's going on · **Say this** · **If they still don't** · Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time
 
+- Part 2 tools: **"Rule check"** (Moment 12), **hand on my arm** interrupt signal (Moment 24), **"Potty words are for the bathroom"** (Moment 25), **Freeze game** (Moment 9), **table captain** / named jobs (Moment 17), **division of responsibility** (Satter; Ch 7), **the Sunday box** (Moment 13), **"Asked and answered"** (Moment 6), Ch 10's five check-your-asks questions, three shared phrases + one shared consequence for all adults
+
 **Running examples / characters (illustrative composites; never reuse Book 1 names: Maya, Leo, Ava, Zoe, Noah, Lily, Sam, Ella, Jack, Rosie, Ben, Owen, Priya, Nora, Finn):**
 - Intro: unnamed 5-year-old, dinosaurs on the rug, "Shoes on"
 - Ch 1: **Theo**, 4, toy truck in a cushion city, washing hands for dinner (and his mom); examples **Ruby** (coming inside), **Milo** (bath), **Kai** (couch-jumping)
 - Ch 2: **Isla**, 3, train track in the hallway, bath time (and her dad)
 - Ch 3: **Eli**, 5, brick spaceship, cleanup before dinner (and his mom); ladder stops at Rung 2
+- Ch 4: **Hazel**, 4, stickers, coat · Ch 5: **Jonah**, 5, "You can't make me", tablet/teeth (and his dad) · Ch 6: **Clara**, 6, 20-minute dawdle getting dressed · Ch 7: **Arlo**, 3, under the table, "yuck" (and his dad) · Ch 8: **Iris**, 6, interrupting a phone call · Ch 9: **Oscar**, 5, grocery store; **Nia** = friend whose house they visit (Moment 28) · Ch 10: **Ezra**, 4, a week of One Clear Ask, still says no
 
 **Promises made to the reader (must be delivered):**
-- Ch 10: signs it's time to talk to the pediatrician (promised in the disclaimer and intro: often seems not to hear; hard to listen everywhere)
-- Ch 10: getting the adults on the same page (reader-psychology; implied by Moment 5)
-- Ch 11: fewer instructions per day (promised in Ch 2's action)
+- Ch 10 ✓ DELIVERED: signs it's time to talk to the pediatrician (hearing check S14, hard everywhere, lost skills S15, safety, worry)
+- Ch 10 ✓ DELIVERED: getting the adults on the same page (promised in Moment 5)
+- Ch 11: fewer instructions per day (promised in Ch 2's action; Ch 10 also says "cut asks in half")
+- Ch 11: how to write 3–5 family rules (promised in Moment 12)
 - Ch 12: 14-day challenge; compare repeat count vs Day 1 (Ch 1 action asks the reader to notice counts)
 - Part 2: 30 moments, same layout, bold scripts, every card ends with "If they still don't" (intro)
-- Printables: One Clear Ask pocket card (Ch 1 ✓), Consequence Picker (Ch 3 ✓), Ladder pocket card (Ch 3 ✓), "When… then…" chart (Ch 6), family rules poster (Ch 11), 14-day tracker (Ch 12), cheat sheet (back matter)
+- Printables: One Clear Ask pocket card (Ch 1 ✓), Consequence Picker (Ch 3 ✓), Ladder pocket card (Ch 3 ✓), "When… then…" chart (Ch 6 ✓), family rules poster (Ch 11), 14-day tracker (Ch 12), cheat sheet (back matter)
 - Book 1 cross-references: Calm Words Formula (Ch 2 ✓), 3-Line Meltdown Script (Ch 3 ✓)
 
 ## Open questions for the owner
-1. Part 1 is ≈ 6,200 words of body text vs ≈ 7,500 in the outline. Keep it tight (recommended) or add more worked examples?
+1. ~~Length~~: owner said keep it tight (2026-10-03).
 2. Sources S4 (AAP policy statement), S5 (Straus & Field) and S7 (Kazdin) were verified from summaries/abstracts. Skim the originals before publishing.
 3. Pocket cards and the Consequence Picker will also need a download link (as in Book 1's plan). Same printables page for both books?
