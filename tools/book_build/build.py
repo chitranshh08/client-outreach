@@ -37,7 +37,7 @@ def slugify(text):
 
 PAGEBREAK = ('\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n'
              '```{=html}\n<div class="pagebreak"></div>\n```\n')
-CARD_TITLE = re.compile(r"^\*\*[A-Z0-9][A-Z0-9 :'’&\-]+\*\*$")
+CARD_TITLE = re.compile(r"^\*\*[A-Z0-9][A-Z0-9 :'’&\-\"“”…]+\*\*$")
 
 
 # ---------------------------------------------------------------- common source
@@ -61,6 +61,35 @@ def list_blank_lines(s):
             out.append("")
         out.append(line)
     return "\n".join(out)
+
+
+SCRIPT_A_END = re.compile(r"(\*\*|\]|:\*|\*)\s*$")
+SCRIPT_B_START = re.compile(r"^(\*\*|\[[A-Z]|\*Try:|\*Instead of:|Or\b)")
+
+
+def split_script_lines(s):
+    """opt-in (book.json build.script_lines): in cards and examples, a label line ("Say this:"),
+    an [action] line and each bold script line become separate paragraphs instead of one run-on
+    paragraph. Lists, indented continuation lines and prose wraps are left alone."""
+    L = s.split("\n"); out = []
+    for i, b in enumerate(L):
+        if i and out and out[-1].strip() and b.strip():
+            a = L[i - 1]
+            whole_bold = a.startswith("**") and a.rstrip().endswith("**")
+            if not a.startswith(("- ", "  ", "#", "|")) and not b.startswith(("- ", "  ")) \
+                    and ((SCRIPT_A_END.search(a) and SCRIPT_B_START.match(b)) or whole_bold
+                         or b.startswith(("**Try:**", "*Try:*"))):
+                out.append("")
+        out.append(b)
+    return "\n".join(out)
+
+
+ACTION = re.compile(r"(?<![\\\w*\]])\[(?=[A-Z])([^\]\[\n]+(?:\n[^\]\[\n]+)?)\](?![(\[{])")
+
+
+def italic_actions(s):
+    """opt-in: [Walk over.] stage directions print in italics, brackets kept."""
+    return ACTION.sub(lambda m: f"*[{m.group(1)}]*", s)
 
 
 def escape_blanks(s):
@@ -159,14 +188,15 @@ def card_linebreaks(s):
             while j < len(lines) and lines[j].strip() != "---":
                 j += 1
             block = lines[i + 1:j]
+            shared = j + 2 < len(lines) and CARD_TITLE.match(lines[j + 2].strip())
             for k in range(len(block) - 1):
                 cur, nxt = block[k], block[k + 1]
                 if cur.strip() and nxt.strip() and not nxt.lstrip()[:1].islower() \
                         and not nxt.lstrip().startswith(("- ", "1.", "2.", "3.", "4.", "5.", "6.")) \
                         and not cur.lstrip().startswith(("- ",)) and not re.match(r"\s*\d+\.", cur):
                     block[k] = cur.rstrip() + "\\"
-            out += [lines[i]] + block + [lines[j] if j < len(lines) else ""]
-            i = j + 1
+            out += [lines[i]] + block + ([] if shared else [lines[j] if j < len(lines) else ""])
+            i = j if shared else j + 1
             continue
         out.append(lines[i]); i += 1
     return "\n".join(out)
@@ -180,8 +210,10 @@ def wrap_cards(s):
             j = i + 1
             while j < len(lines) and lines[j].strip() != "---":
                 j += 1
+            if any(l.startswith("#") for l in lines[i + 1:j]):
+                sys.exit(f"card {lines[i + 2].strip()} is not closed with --- before the next heading")
             out += ["::: card"] + lines[i + 1:j] + [":::"]
-            i = j + 1
+            i = j if (j + 2 < len(lines) and CARD_TITLE.match(lines[j + 2].strip())) else j + 1
             continue
         out.append(lines[i]); i += 1
     return "\n".join(out)
@@ -190,8 +222,12 @@ def wrap_cards(s):
 def assemble(book_dir, cfg, target):
     parts = load_sources(book_dir, cfg)
     body = []
+    script_lines = cfg.get("build", {}).get("script_lines", False)
     for name, s in parts:
-        s = list_blank_lines(escape_blanks(fill_placeholders(s, cfg)))
+        s = fill_placeholders(s, cfg)
+        if script_lines and name != parts[0][0]:
+            s = italic_actions(split_script_lines(s))
+        s = list_blank_lines(escape_blanks(s))
         body.append((name, s))
     joined = "\n\n".join(s for n, s in body[1:])
     joined = card_linebreaks(add_ids(joined))
@@ -389,13 +425,13 @@ def postprocess_html(h):
     # ordered lists that continue numbering (cheat sheet 7., 11., ...): WeasyPrint ignores start=
     h = re.sub(r'<ol start="(\d+)"', lambda m: f'<ol start="{m.group(1)}" style="counter-reset: list-item {int(m.group(1)) - 1}"', h)
     # short closing sections share a page in print
-    h = re.sub(r'<h1 id="(whats-next|stay-connected|about-the-author)"', r'<h1 class="runon" id="\1"', h)
+    h = re.sub(r'<h1 id="(whats-next|also-in-the-calm-words-parenting-series|stay-connected|about-the-author)"', r'<h1 class="runon" id="\1"', h)
     # moment heading + its italic subtitle stay together
     h = re.sub(r'(<h2[^>]*class="moment"[^>]*>.*?</h2>\s*)<p><em>', r'\1<p class="subhead"><em>', h, flags=re.S)
     # paragraphs that are only a bold label ("Say this:") / fully bold scripts / italic stage directions
     h = re.sub(r'<p><strong>([^<]{1,40}:)</strong></p>', r'<p class="label"><strong>\1</strong></p>', h)
     h = re.sub(r'<p><strong>((?:(?!</?strong>|</?p>).)+)</strong></p>', lambda m: m.group(0) if re.search(r"\(Chapter \d+\)$", m.group(1)) else f'<p class="script"><strong>{m.group(1)}</strong></p>', h, flags=re.S)
-    h = re.sub(r'<p><em>(\((?:(?!</?p>).)+\))</em></p>', r'<p class="stage"><em>\1</em></p>', h, flags=re.S)
+    h = re.sub(r'<p><em>([(\[](?:(?!</?p>).)+[)\]])</em></p>', r'<p class="stage"><em>\1</em></p>', h, flags=re.S)
     # footnotes: move each note's text inline so WeasyPrint places it at the foot of the page
     notes = {}
     sec = re.search(r'<section[^>]*class="footnotes[^"]*"[^>]*>.*?</section>', h, re.S)
@@ -440,6 +476,7 @@ def build_pdf(md, out_path, cfg, work):
            .replace("{MT}", str(p["margin_top_in"])).replace("{MB}", str(p["margin_bottom_in"]))
            .replace("{MI}", str(p["margin_inside_in"])).replace("{MO}", str(p["margin_outside_in"]))
            .replace("{TITLE}", cfg["title"]))
+    css += cfg.get("build", {}).get("print_css", "")       # optional per-book overrides
     open(os.path.join(work, "print.css"), "w").write(css)
     doc = HTML(filename=html_path).render(stylesheets=[CSS(string=css, font_config=fc)], font_config=fc)
     doc.metadata.title = cfg["title"]
