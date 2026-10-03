@@ -1,0 +1,27 @@
+{
+  "slug": "listening-playbook-02",
+  "title": "The Listening Playbook",
+  "subtitle": "The Exact Words to Get Kids to Listen Without Yelling, Nagging or Bribes",
+  "subtitle_line2": "Toddler and Child Discipline Scripts for Ages 2 to 7",
+  "series_line": "A Calm Words Parenting Guide · Book 2",
+  "author": "Hannah Rowe",
+  "language": "en-US",
+  "version": "0.1",
+  "release_date": null,
+  "print": {
+    "trim_in": [6, 9],
+    "bleed": false,
+    "paper": "white",
+    "ink": "black and white",
+    "margin_inside_in": 0.8,
+    "margin_outside_in": 0.6,
+    "margin_top_in": 0.7,
+    "margin_bottom_in": 0.8
+  },
+  "links": {
+    "review_url": null,
+    "instagram_handle": null,
+    "series_book1_url": null
+  },
+  "_notes": "Same print specs and build pipeline as Book 1 (tools/book_build/) so the series matches on the shelf. links.* stay null until ASINs exist."
+}

@@ -1,0 +1,25 @@
+# Sources: The Listening Playbook
+
+Every factual claim in the manuscript maps to an entry here. Verified = the source exists
+and supports the claim as worded in the book. Re-read each original before publishing.
+
+| # | Claim as used in the book | Where used | Source | Verified |
+|---|---|---|---|---|
+| S1 | Children aren't born with self-control skills, only the potential to build them; these skills grow fast in the preschool years and keep developing through adolescence into early adulthood. | Ch 2 | Center on the Developing Child at Harvard University, *InBrief: Executive Function*. https://developingchild.harvard.edu/resources/inbriefs/inbrief-executive-function/ | Yes (Book 1, 2026-09-30) |
+| S2 | Giving good directions: get close and make eye contact; be specific and say what to do; make it a statement, not a question; one direction at a time (short attention span); neutral, firm tone, no yelling or pleading; avoid repeating; check if they followed it; follow through every time; one warning, then the consequence; praise when they follow directions. | Intro, Ch 1, Ch 2, Ch 3 | CDC, *Essentials for Parenting Toddlers and Preschoolers*: "Steps for Giving Good Directions" https://www.cdc.gov/parenting-toddlers/directions/good-directions.html and "Tips for Giving Directions" https://www.cdc.gov/parenting-toddlers/communication/giving-directions.html | Yes (2026-10-03, page fetched) |
+| S3 | Effective instructions: statements, not questions; give them up close, not from across the room; one at a time; after an instruction, wait a few seconds without repeating it. | Ch 1, Ch 2 | Child Mind Institute, "How to Give Kids Effective Instructions." https://childmind.org/article/how-to-give-kids-effective-instructions/ | Yes (2026-10-03, page fetched) |
+| S4 | The AAP policy statement says aversive discipline, including yelling at or shaming children, is minimally effective in the short term and not effective in the long term. | Ch 2, Ch 3 | Sege, R. D., & Siegel, B. S. (2018). Effective Discipline to Raise Healthy Children. *Pediatrics*, 142(6), e20183112. American Academy of Pediatrics. | Yes (2026-10-03, via AAP news release and coverage); re-read the statement before publishing |
+| S5 | In a national survey of American parents, almost all reported yelling, screaming or shouting at their child to correct behavior; by age 2, 90% of parents reported some form of "psychological aggression" in the past year. | Ch 2 | Straus, M. A., & Field, C. J. (2003). Psychological aggression by American parents: National data on prevalence, chronicity, and severity. *Journal of Marriage and Family*, 65(4), 795–808. | Yes (2026-10-03, abstract via search) |
+| S6 | 56% of parents believe children can resist doing something forbidden before age 3 (36% before age 2); research shows these skills start developing between 3.5 and 4 years. 42% of parents said they don't want to yell or raise their voice as quickly. | Intro, Ch 2 | ZERO TO THREE, "Parent Survey Reveals Expectation Gap for Parents of Young Children" (Tuning In national parent survey, 2016). https://www.zerotothree.org/resource/parent-survey-reveals-expectation-gap-for-parents-of-young-children/ | Yes (2026-10-03, page fetched) |
+| S7 | Focus on the "positive opposite" (what you want the child to do) and give specific praise right away: "Great job taking your dishes to the sink!" works better than "Great job!" | Ch 1, Ch 3 | Kazdin, A. E. (2008). *The Kazdin Method for Parenting the Defiant Child*. Houghton Mifflin. Summary: ABC News, "10 Tips for Parents of Defiant Children." https://abcnews.go.com/Primetime/10-tips-parents-defiant-children/story?id=8549664 | Yes (2026-10-03, via summary); confirm in the book before publishing |
+| S8 | Consequences should, whenever possible, be immediate, relate to the rule broken, and be short enough that you can move on to the positives; follow through when a rule is broken; don't use name-calling or yelling. | Ch 3 | American Academy of Child & Adolescent Psychiatry, *Facts for Families* No. 43, "Discipline." https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Discipline-043.aspx | Yes (2026-10-03, page fetched) |
+| S9 | Labeled praise ("I saw that you put your toys away!") works better than "Great job!"; rewards that come right after a behavior work best. | Ch 3 | CDC, *Essentials for Parenting Toddlers and Preschoolers*: "Using Rewards." https://www.cdc.gov/parenting-toddlers/responding-to-behavior/using-rewards.html | Yes (2026-10-03, page fetched) |
+
+Not sourced on purpose (presented as practical tools, not research findings): the One Clear
+Ask, the Follow-Through Ladder, the Consequence Picker, "keep the follow-through, drop the
+yell" (framed as an observation about the repeat loop), and rewards vs bribes (framed as
+this book's definition).
+
+Avoided on purpose: the "Positive Discipline" program name and its "related, respectful,
+reasonable" framework (Jane Nelsen's licensed material). The book's consequence rule
+("related, small, soon") is sourced to AACAP (S8) instead.

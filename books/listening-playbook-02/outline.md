@@ -4,6 +4,39 @@ Target: ~25,000–28,000 words (≈ 110–125 pages, 6×9) · 3 parts · 12 chap
 Quick win: the One Clear Ask method opens Chapter 1, at ~word 1,000, inside the first 10%
 (≈ 2,600 words), so it's in the Look Inside sample.
 
+**Status:** approved by the owner 2026-10-03 ("let's go with it"). Drafting.
+
+## Architecture (folder and file map)
+
+```
+books/listening-playbook-02/
+├── brief.md               ← promise, avatar, final title, business decisions
+├── outline.md             ← this file
+├── reader-psychology.md   ← parent pain, objections, emotional arc, language rules
+├── sources.md             ← every fact → checkable source (S1…)
+├── progress.md            ← chapter status, word counts, continuity, open questions
+├── book.json              ← metadata for tools/book_build (same specs as Book 1)
+├── sessions/              ← owner decisions per working session
+└── manuscript/
+    ├── 00-front-matter.md       title, copyright + disclaimer, Find Your Moment, contents
+    ├── 01-introduction.md       Start Here
+    ├── 02-one-clear-ask.md      Part 1 opener + Ch 1
+    ├── 03-why-kids-tune-out.md  Ch 2
+    ├── 04-follow-through-ladder.md  Ch 3
+    ├── 05-in-a-minute.md        Part 2 opener + Ch 4 (Moments 1–6)
+    ├── 06-not-the-boss.md       Ch 5 (Moments 7–12)
+    ├── 07-toys-away.md          Ch 6 (Moments 13–17)
+    ├── 08-table-talk.md         Ch 7 (Moments 18–22)
+    ├── 09-whining-rude-words.md Ch 8 (Moments 23–27)
+    ├── 10-trickier-moments.md   Ch 9 (Moments 28–30)
+    ├── 11-still-wont-listen.md  Ch 10
+    ├── 12-fewer-reminders.md    Part 3 opener + Ch 11
+    ├── 13-fourteen-day-challenge.md  Ch 12
+    └── 99-back-matter.md        thank you + review ask, cheat sheet, sources, series, bio
+```
+
+Later (packaging): `listing.md`, `cover-brief.md`, `release/v1.0/` built with `tools/book_build/`.
+
 **Series rules for this book**
 - Same title style, readability spec and card layout as Book 1 (`books/meltdown-playbook-01/outline.md`).
   A reader who knows Book 1 should feel at home on page one.
@@ -43,7 +76,7 @@ Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time
 - Extra: pocket One Clear Ask card
 
 ### Chapter 2: Why Kids Tune Out (and Why Yelling Seems to Work) (~2,000)
-- Switching attention away from play is hard for young brains (executive function; S3)
+- Switching attention away from play is hard for young brains (executive function; S1, S6)
 - Too many words, too many requests, asked from across the room
 - The real reason yelling "works": it's usually the moment we finally get up and follow
   through. Keep the follow-through, drop the yell
@@ -51,13 +84,12 @@ Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time
 - **Action:** count how many instructions you give in one hour (no judgment, just data)
 
 ### Chapter 3: What to Do When They Still Don't: The Follow-Through Ladder (~2,500)
-- **The Follow-Through Ladder:** 1 Say it once more, with a choice · 2 "When… then…" or
-  helping hands · 3 A calm consequence (related, small, soon) · 4 Move on: no lecture,
-  no grudge
-- Consequences vs punishment vs threats you won't keep (AAP guidance on effective
-  discipline; S1)
+- **The Follow-Through Ladder:** 1 One reminder, with a choice (the only repeat, and the
+  warning if a consequence is coming) · 2 Helping hands or "When… then…" · 3 A calm
+  consequence (related, small, soon) · 4 Move on: no lecture, no grudge
+- Consequences vs punishment vs threats you won't keep (AAP S4, AACAP S8)
 - Rewards vs bribes: decided before vs offered mid-standoff
-- Catch the opposite: specific praise for the behavior you want (S5)
+- Catch the opposite: specific praise for the behavior you want (S7, S9)
 - **Action:** fill in your Consequence Picker for your family's 3 hardest moments
 - Extra: **Consequence Picker** (printable)
 
@@ -148,15 +180,7 @@ Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time
 
 ---
 
-## Candidate sources (verify each against the original before any claim is drafted)
-| ID | Source | Use |
-|---|---|---|
-| S1 | Sege, R. D., & Siegel, B. S. (2018). Effective Discipline to Raise Healthy Children. *Pediatrics*, 142(6). American Academy of Pediatrics policy statement | Ch 3 consequences; Ch 10 |
-| S2 | CDC, *Essentials for Parenting Toddlers and Preschoolers* (giving directions, consequences) | Ch 1, 3, 10 |
-| S3 | Harvard Center on the Developing Child, Executive Function & Self-Regulation | Ch 2 |
-| S4 | Parent-Child Interaction Therapy (PCIT) guidance on effective commands (direct, specific, positive, one at a time) | Ch 1 |
-| S5 | Kazdin, A. E. (2008). *The Kazdin Method for Parenting the Defiant Child*. Houghton Mifflin | Ch 3 praise, "positive opposite" |
-| S6 | Ellyn Satter Institute, Division of Responsibility in Feeding | Ch 7, Moment 20 |
-| — | Book 1 sources (Siegel & Bryson etc.) where a Book 1 idea is recalled | Reminders only |
+## Sources
+Verified sources live in `sources.md` (S1–S9 as of 2026-10-03). Ch 7 will add a feeding source (Ellyn Satter Division of Responsibility) and Ch 10 a when-to-call source before those chapters are drafted.
 
 Rule: if a source can't be found or doesn't say what we need, the claim is cut.
