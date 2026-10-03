@@ -1,7 +1,7 @@
 # Niche Report: Get Kids to Listen / Child Discipline (Book 2 rescore)
 
 - **Date collected:** 2026-10-03
-- **Main keywords:** "how to get kids to listen" · "toddler discipline" · "positive discipline for preschoolers"
+- **Main keywords:** "toddler discipline" · "child discipline" · "how to get kids to listen"
 - **Marketplace:** Amazon.com (Kindle Store)
 - **Follows:** `2026-10-01-book2-series-strategy.md`
 
@@ -82,6 +82,30 @@ two weeks, so medium confidence is enough to proceed.
 sends screenshots, fill a proper page-1 table for "how to get kids to listen" and confirm
 the Child Discipline and Parenting Toddlers category ranks.
 
+## Title demand check (Amazon Kindle autocomplete, 2026-10-03)
+
+Autocomplete lists what buyers actually type, roughly most-typed first. Each phrase in the
+title or subtitle was tested against short prefixes.
+
+| Phrase | What autocomplete shows | Demand signal | In final title? |
+|---|---|---|---|
+| how to talk so (little) kids will listen | #1 under "how to talk" | Very strong, but it's Faber's book title | No (another author's title). "Kids" + "listen" still match partly |
+| positive discipline (for preschoolers) | #5 under "positive"; #1 under "positive dis" | Strong | **No:** Jane Nelsen's licensed program name ("approval to use the Positive Discipline intellectual property") |
+| toddler discipline | #2 under "toddler d"; subtitle of *No Bad Kids* and *1-2-3 Magic* | Strong | **Yes** |
+| parenting toddlers | under "parenting" | Strong | Backend keyword slot |
+| strong willed child | #1 under "strong willed" | Strong | Backend keyword slot |
+| child discipline | exact suggestion; our target category name | Medium | **Yes** |
+| get kids to listen | full phrase suggests itself, but "how to get kids" only offers "…to say yes" | Medium–weak | Yes (it's the promise) |
+| stop yelling / no yelling | only "stop yelling and love me more", "no yelling" | Weak | Yes, as hook ("without yelling") |
+| parenting scripts | only "parenting scripts amber lia" (author name) | Weak | No |
+
+**Main title:** "The Toddler Discipline Playbook" would carry more demand, but another
+author published that exact title in March 2026. "The Listening Playbook" is clear and
+keeps the series brand.
+
+**Final:** *The Listening Playbook: The Exact Words to Get Kids to Listen Without Yelling,
+Nagging or Bribes: Toddler and Child Discipline Scripts for Ages 2 to 7* (150 characters).
+
 ## Recommendation
 **GO: *The Listening Playbook*, Calm Words Parenting Book 2.** Angle that beats page 1:
 the only lookup-by-moment script book with a follow-through step on every card, from a
@@ -99,6 +123,7 @@ packaging: Child Discipline + Parenting Toddlers (both have low bars to the top 
 - [The Executive Function Playbook for ADHD Kids, Kindle](https://www.amazon.com/Executive-Function-Playbook-ADHD-Kids-ebook/dp/B0GNQ5H6V1)
 - [What to Say When Your ADHD Child Won't Listen (Jones), Kindle](https://us.amazon.com/What-Child-Listen-Word-Word-ebook/dp/B0H4RL18NQ)
 - [The Toddler Discipline Playbook, Kindle](https://www.amazon.com/Toddler-Discipline-Playbook-Scripts-Tantrums-ebook/dp/B0GS6GWMYY)
+- [Positive Discipline: officially licensed use](https://www.positivediscipline.com/officially-licensed/)
 - [Kindle New Releases: Child Discipline](https://us.amazon.com/gp/new-releases/digital-text/157614011)
 - [Say It Once: The No Bullshit Guide to Parenting (Goodreads)](https://www.goodreads.com/topic/list_book/33851742)
 - [Say It Once (Kelleher), publisher listing](https://secure.combinedbook.com/sayitonce_169960.html)

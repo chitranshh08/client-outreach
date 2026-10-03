@@ -55,7 +55,7 @@ also bought", not against them.
 ## Title options
 | # | Title | Subtitle | Chars | Notes |
 |---|---|---|---|---|
-| 1 | The Listening Playbook | The Exact Words to Get Kids to Listen Without Yelling, Nagging or Bribes: Positive Discipline Scripts for Parents of Kids 2 to 7 | 152 | **Recommended.** Mirrors Book 1's "The Exact Words to…" pattern. Carries "get kids to listen", "without yelling" and "positive discipline" (all autocomplete phrases) |
+| 1 | The Listening Playbook | The Exact Words to Get Kids to Listen Without Yelling, Nagging or Bribes: Positive Discipline Scripts for Parents of Kids 2 to 7 | 152 | Superseded by the final title below ("Positive Discipline" is a licensed program name). Mirrors Book 1's "The Exact Words to…" pattern. Carries "get kids to listen", "without yelling" and "positive discipline" (all autocomplete phrases) |
 | 2 | The Listening Playbook | How to Get Kids to Listen Without Yelling or Repeating Yourself: Positive Discipline Scripts for Parents of Kids 2 to 7 | 143 | Exact "how to get kids to listen" phrase; "repeating yourself" names the pain. Breaks the series pattern |
 | 3 | ~~Say It Once~~ | The Exact Words to Get Kids to Listen Without Yelling, Nagging or Bribes (Ages 2 to 7) | 99 | **Dropped 2026-10-03:** two parenting books already use this title |
 | 4 | The No-Yelling Playbook | Positive Discipline Scripts to Get Kids to Listen and Cooperate: For Parents of Kids 2 to 7 | 116 | Speaks to the parent's goal; overlaps Book 1's "without yelling" promise |
@@ -64,16 +64,28 @@ also bought", not against them.
 All under 200 characters; no trademarks, author names, "bestseller" or "free". Web search
 on 2026-10-01 and 2026-10-03 found no book titled "The Listening Playbook".
 
-### FINAL TITLE (locked 2026-10-03)
+### FINAL TITLE (revised for demand, 2026-10-03)
 - **Title:** The Listening Playbook
-- **Subtitle:** The Exact Words to Get Kids to Listen Without Yelling, Nagging or Bribes: Positive Discipline Scripts for Parents of Kids 2 to 7
+- **Subtitle:** The Exact Words to Get Kids to Listen Without Yelling, Nagging or Bribes: Toddler and Child Discipline Scripts for Ages 2 to 7
 - **Series:** Calm Words Parenting, Book 2 · **Author:** Hannah Rowe
-- **Combined:** 152 / 200 characters
+- **Combined:** 150 / 200 characters
 
-Why this one: it repeats Book 1's "The Exact Words to…" pattern, so the two covers read as a
-set; it carries three real buyer phrases ("get kids to listen", "without yelling",
-"positive discipline"); and the title itself is clear of clashes. Cover text must match
-this title and subtitle exactly.
+Why this one (full demand table in `research/niches/2026-10-03-listening-playbook-rescore.md`):
+- **"Toddler discipline"** is the #2 Amazon autocomplete under "toddler d" and the
+  subtitle phrase of the category leaders (*No Bad Kids*, *1-2-3 Magic*). **"Child
+  discipline"** is an exact autocomplete phrase and the name of our target category. The
+  subtitle now holds both.
+- **"Positive Discipline" removed.** It's Jane Nelsen's licensed program name (her site asks
+  for approval to use "the Positive Discipline intellectual property"). Our rules ban
+  trademark-like terms in metadata, and a takedown after launch would cost the listing.
+- Keeps the "The Exact Words to…" pattern from Book 1 (the covers read as a set) and the
+  "Yelling, Nagging or Bribes" hook (it's the reader's pain in her own words).
+- **Main title stays "The Listening Playbook":** the demand-heavier "The Toddler Discipline
+  Playbook" was published by another author in March 2026, and the series name needs to
+  stay ours.
+
+Superseded (same day): "…: Positive Discipline Scripts for Parents of Kids 2 to 7".
+Cover text must match the final title and subtitle exactly.
 
 ## Format & business decisions
 - **Target word count:** ~25,000–28,000 (Book 1 landed at ~26k; ≈ 110–125 pages at 6×9).
