@@ -1,7 +1,7 @@
 # Outline: The Listening Playbook
 
 Target: ~25,000–28,000 words (≈ 110–125 pages, 6×9) · 3 parts · 12 chapters · 30 script cards
-Quick win: the Say-It-Once Method opens Chapter 1, at ~word 1,000, inside the first 10%
+Quick win: the One Clear Ask method opens Chapter 1, at ~word 1,000, inside the first 10%
 (≈ 2,600 words), so it's in the Look Inside sample.
 
 **Series rules for this book**
@@ -31,16 +31,16 @@ Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time
 - Which book when: Meltdown Playbook vs Listening Playbook (2 lines)
 - Composite-examples note; no credentials claimed
 
-## PART 1: SAY IT ONCE
+## PART 1: ASK ONCE, FOLLOW THROUGH
 
-### Chapter 1: Say It Once: Five Steps That End the Repeat Loop (~2,000) ← quick win
+### Chapter 1: One Clear Ask: Five Steps That End the Repeat Loop (~2,000) ← quick win
 - Vignette: "Shoes on" asked from the kitchen, four times
-- **The Say-It-Once Method:** Get close · Get their eyes · Say it short (what *to* do,
+- **The One Clear Ask:** Get close · Get their eyes · Say it short (what *to* do,
   ≤ 10 words) · Wait (count five in your head) · Follow through (help them do it)
 - Tell, don't ask: "Can you put your shoes on?" invites "no". "Shoes on, please." doesn't
 - 5 swaps: Instead of / Try
 - **Your 5-Minute Action:** use the method on the next 3 requests today
-- Extra: pocket Say-It-Once card
+- Extra: pocket One Clear Ask card
 
 ### Chapter 2: Why Kids Tune Out (and Why Yelling Seems to Work) (~2,000)
 - Switching attention away from play is hard for young brains (executive function; S3)
@@ -133,7 +133,7 @@ Instead of / Try · Age tweaks (2–3 · 4–5 · 6–7) · Next time
 - **Action:** write your family rules together and post them
 - Extra: family rules poster
 
-### Chapter 12: Your 14-Day Say-It-Once Challenge (~1,300)
+### Chapter 12: Your 14-Day Listening Challenge (~1,300)
 - One small step a day for two weeks, building to the full method + ladder
 - Day 14: check your repeat count vs Day 1
 - Extra: 14-day tracker

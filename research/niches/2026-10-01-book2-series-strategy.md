@@ -72,6 +72,11 @@ Full blueprint: `books/listening-playbook-02/brief.md` and `outline.md`.
 
 ## 4. Data still needed before the GO (owner, ~15 minutes)
 
+> **Update 2026-10-03:** rescored at **73/100 (GO)** from search snapshots of Amazon pages,
+> since direct scanning is still blocked. "Say It Once" is taken. Title locked as
+> *The Listening Playbook*. See `2026-10-03-listening-playbook-rescore.md`. The steps below
+> are now a pre-launch refresh, not a blocker.
+
 Automated scanning is stopped, so this needs screenshots. On amazon.com, Kindle Store:
 1. Search **"how to get kids to listen"**, **"toddler discipline"** and
    **"positive discipline for preschoolers"**. Screenshot page 1 of each.
