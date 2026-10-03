@@ -104,6 +104,7 @@ to the front matter or intro. If the sample needs more room, shorten the Find Yo
 
 ## Open questions for the owner
 0. **Full review 2026-10-03**: warnings W1–W6 applied (owner: "fix warnings only"); S1–S10 left as is.
+0c. **Listing drafted 2026-10-03** (`listing.md`): description 2,344 chars, 7 keywords, 6 category candidates (verify in KDP picker), pricing $2.99→$5.99 / $14.99. Awaiting owner approval (gate).
 0b. **Release v1.0 built 2026-10-03** (`release/v1.0/`): Kindle DOCX + 99-page 6×9 PDF, verify.py exit 0. Owner edit pass still pending; rebuild after any edits.
 1. ~~Length~~: owner said keep it tight (2026-10-03).
 2. Sources S4 (AAP policy statement), S5 (Straus & Field) and S7 (Kazdin) were verified from summaries/abstracts. Skim the originals before publishing.

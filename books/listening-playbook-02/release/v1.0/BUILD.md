@@ -71,5 +71,5 @@ python3 tools/book_build/verify.py books/listening-playbook-02         # exit co
 1. **Owner edit pass** on the manuscript, then rebuild + verify.
 2. **eBook:** upload the DOCX; in the previewer check the title page, Contents links, a chapter opening, a script card, a footnote and the last pages on phone, tablet and e-reader views.
 3. **Paperback:** 6 × 9 in, white paper, black & white, no bleed; upload the interior PDF; clear every flag in Print Previewer.
-4. **Paperback cover wrap** for 99 pages on white paper: spine **0.223 in** (99 × 0.002252), full wrap **12.473 × 9.25 in** with 0.125 in bleed (3742 × 2775 px at 300 DPI). KDP allows spine text on books over 79 pages, so the spine can carry title + author. If KDP reports a different page count, recompute.
+4. **Paperback cover wrap** for 99 pages on white paper: spine **0.223 in** (99 × 0.002252), full wrap **12.473 × 9.25 in** with 0.125 in bleed (3742 × 2775 px at 300 DPI). Spine text: KDP Help currently allows it on books over 79 pages, but `docs/kdp-rules.md` says 100+ **(verify)**. Check KDP Help before adding title + author to the spine. If KDP reports a different page count, recompute.
 5. **eBook cover:** front cover at 2560 × 1600 px, matching Book 1's cover family (`cover-brief.md` to be written at packaging).
