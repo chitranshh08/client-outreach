@@ -14,8 +14,8 @@ By the fifth time, you're standing over him and your voice has turned into the v
 promised yourself you'd stop using. And *now* he moves. He looks a little scared, he
 puts his shoes on, and you walk to the car feeling like the worst version of yourself.
 
-If that sounds like your house, here's the first thing I want you to know: **you're not
-doing this wrong because you're a bad parent.** You're stuck in a loop that almost every
+If that sounds like your house, here's the first thing I want you to know: **you're not a
+bad parent.** You're stuck in a loop that almost every
 family falls into. In one national survey, 42% of parents of young children said they
 wish they didn't yell or raise their voice as quickly as they do.[^S6] You are in very
 large company.

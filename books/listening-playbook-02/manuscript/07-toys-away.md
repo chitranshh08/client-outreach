@@ -29,7 +29,7 @@ know where to start, so they don't.
 **If they still don't:**
 - *Rung 1:* **"Cars in the bin. Do you want to beat the timer or beat the song?"**
 - *Rung 2:* **"You do the cars, I'll do the blocks."** [Start cleaning beside them.]
-- *Rung 3:* **"The toys still on the floor are going in the Sunday box until tomorrow."**
+- *Rung 3:* **"The toys still on the floor are going in the put-away box until tomorrow."**
 
 **Instead of:** "Clean up your room!" (from the doorway)
 **Try:** **"Blocks in the bin. Then books on the shelf. Then we're done."**
@@ -106,7 +106,7 @@ steps just aren't holding their attention.
   nearby.
 
 **Next time:** Get clothes ready the night before, and get dressed before anything fun,
-like breakfast or a show. *First* dressed, *then* fun.
+like a show or playtime. *First* dressed, *then* fun.
 
 ---
 
@@ -197,3 +197,5 @@ time they do it.
 
 *Tip: the "then" should be something that was going to happen anyway. You're showing the
 order of the day, not offering a new prize.*
+
+---

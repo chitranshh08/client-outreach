@@ -8,10 +8,13 @@ Every moment in Part 2 has the same six parts, so you always know where to look.
 
 - **What's going on:** one or two lines on why this moment is hard for your child.
 - **Say this:** the ask. Use the One Clear Ask: get close, get their eyes, then say it.
-- **If they still don't:** your next steps on the Follow-Through Ladder.
+- **If they still don't:** your next steps on the Follow-Through Ladder (Chapter 3).
 - **Instead of / Try:** a common phrase that backfires, and a swap.
 - **Age tweaks:** small changes for ages 2–3, 4–5 and 6–7.
 - **Next time:** one idea to make the moment easier before it starts.
+
+**The ladder at a glance:** Rung 1, one reminder, with a choice. Rung 2, helping hands or
+"When… then…" Rung 3, a calm consequence: related, small, soon. Rung 4, move on.
 
 The bold lines are the words to say. Everything in brackets is what to *do*. And after
 every ask, wait. Count to five in your head before anything else.
@@ -79,7 +82,7 @@ door makes it easy to pretend they didn't hear.
 
 **If they still don't:**
 - *Rung 1:* **"Inside now. Do you want to race me to the door or walk like a dinosaur?"**
-- *Rung 2:* **"When you're inside, then we'll have the snack."** Or take their hand and walk in
+- *Rung 2:* **"When you're inside, then you can pick the game."** Or take their hand and walk in
   together.
 - *Rung 3:* **"Coming in was hard today, so after snack we'll play inside."**
 

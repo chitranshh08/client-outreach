@@ -107,17 +107,19 @@ Asking for help is part of the plan, not a failure of it.
 **Day 1:** Asks ______ Repeats ______
 **Day 14:** Asks ______ Repeats ______
 
-**Day 2:** One Clear Ask for one daily request. What happened? __________________
-**Day 3:** Swapped questions for statements. __________________
+**Day 2:** One Clear Ask, one request: ______________
+**Day 3:** Questions swapped for statements: __________
 **Day 4:** Consequence Picker filled in. Yes / Not yet
-**Day 5:** Rung 1 (reminder with a choice). __________________
-**Day 6:** Helping hands / "When… then…". __________________
+**Day 5:** Rung 1 (reminder with a choice): ___________
+**Day 6:** Helping hands / "When… then…": ___________
 **Day 7:** Caught them listening ___ times.
-**Day 8:** My three moments: 1. ________ 2. ________ 3. ________
-**Day 9:** Used the card for: __________________
+**Day 8:** My three moments: ________ ________ ________
+**Day 9:** Used the card for: ___________________
 **Day 10:** Used the cards for: __________________
 **Day 11:** My own script for: __________________
 **Day 12:** Family rules poster up. Yes / Not yet
-**Day 13:** Routine or "When… then…" chart for: __________________
+**Day 13:** Chart made for: ______________________
 
-**The tool that helped most:** ______________________________________
+**The tool that helped most:** ________________
+
+---

@@ -173,7 +173,7 @@ eye-roll is usually a feeling, not a plan.
 - *Rung 1:* If the words are rude: **"I'll listen when you say it in a respectful voice. Try
   again."**
 - *Rung 2:* Follow through on the original ask as usual. **"When your backpack is on the
-  hook, then you can have your snack."**
+  hook, then you can go play."**
 - *Rung 3:* Save consequences for what they *do* (not hanging the backpack), not for an
   eye-roll.
 

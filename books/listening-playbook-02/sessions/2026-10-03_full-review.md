@@ -142,3 +142,18 @@ parents (national, representative). Fix: "a national study".
 ## Not checked by this review
 - Facts against the originals for S4, S5, S7, S10 (manual; see `sources.md`).
 - No human reader testing. These are editorial signals, not reader validation.
+
+---
+
+## Owner decision (same day): "fix warnings only"
+Applied W1–W6 exactly as proposed:
+- W1: "then" lines no longer use food (go outside / pick the game / go play / show or playtime).
+- W2: "The ladder at a glance" line added to the Part 2 opener (after the quick win, so the sample position is unchanged).
+- W3: every action note in Part 1 now uses [brackets]; the "(Drop the 'okay?'…)" aside stays in parentheses because it's a comment, not an action.
+- W4: "you're not a bad parent." · W5: "put-away box" · W6: "Hard moment A/B/C".
+Suggestions S1–S10 and notes N1–N5 are **not** applied (owner's call).
+
+Formatting fixes found during the v1.0 build QA (navigation and layout only, no content changes):
+- Find Your Moment: 5 labels aligned with their moment headings so readers recognize them.
+- Two printables (Ch 6 "When… then…" chart, Ch 12 tracker) were missing their closing rule; added.
+- Tracker write-in lines shortened so each fits on one printed line.

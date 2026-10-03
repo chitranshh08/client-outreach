@@ -43,7 +43,7 @@ a schedule. "Dinner's ready!" from the kitchen is easy to ignore.
   comes at the next planned snack or meal.[^S10]
 
 **Instead of:** "Get here NOW or there's no dinner!"
-**Try:** **"Dinner's on the table. We'd love you to join us."** (And start eating.)
+**Try:** **"Dinner's on the table. We'd love you to join us."** [And start eating.]
 
 **Age tweaks:**
 

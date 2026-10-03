@@ -69,7 +69,7 @@ Before you ask, make sure your child is with you. Say their name and wait for th
 up. If they don't, a light touch on the shoulder or a hand near what they're playing with
 usually helps.
 
-**"Theo."** (Wait for the look.)
+**"Theo."** [Wait for the look.]
 
 You can join their world for a moment first. One sentence about what they're doing shows
 that you noticed it, and it makes the switch to your request a little gentler:
@@ -144,17 +144,17 @@ to do when helping doesn't work. For today, one reminder and a helping hand are 
 ### The One Clear Ask in action
 
 *Coming in from the yard:*
-(Walk over. Crouch.) **"Ruby."** (Wait for the look.) **"Great digging. Time to come
-inside, please."** (Count to five.) **"You came right away. Thank you."**
+[Walk over. Crouch.] **"Ruby."** [Wait for the look.] **"Great digging. Time to come
+inside, please."** [Count to five.] **"You came right away. Thank you."**
 
 *Turning off the bath tap:*
-(Stand next to the tub.) **"Milo, look at me."** (Wait.) **"Bubbles are done. Arms up for
-the towel, please."** (Count to five.) **"Arms up. Great."**
+[Stand next to the tub.] **"Milo, look at me."** [Wait.] **"Bubbles are done. Arms up for
+the towel, please."** [Count to five.] **"Arms up. Great."**
 
 *Stopping the couch-jumping:*
-(Walk over.) **"Kai."** (Wait.) **"Feet on the floor, please."** (Count to five. No
-movement.) **"Feet on the floor. You can climb down, or I can help you."** (Still jumping.)
-**"I'll help you."** (Lift him down calmly.)
+[Walk over.] **"Kai."** [Wait.] **"Feet on the floor, please."** [Count to five. No
+movement.] **"Feet on the floor. You can climb down, or I can help you."** [Still jumping.]
+**"I'll help you."** [Lift him down calmly.]
 
 ## Five swaps to try this week
 
@@ -173,7 +173,7 @@ Small changes in wording make a big difference. Try these.
 *Try:* **"Bath time."** (Drop the "okay?" It turns the ask back into a question.)
 
 *Instead of:* "How many times do I have to tell you?"
-*Try:* (Walk over.) **"Coat on, please. I'll wait."**
+*Try:* [Walk over.] **"Coat on, please. I'll wait."**
 
 ## Why your child might push back at first
 

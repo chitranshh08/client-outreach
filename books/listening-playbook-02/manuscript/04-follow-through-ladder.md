@@ -67,8 +67,8 @@ If your child still hasn't started, you don't ask a third time. You help it happ
 good for toddlers and preschoolers.
 
 **"I'll help you get started. You put one in, I'll put one in."**
-**"Your hands or my hands?"** (Then gently guide their hands, or do it together.)
-**"Let's go together."** (Take their hand and walk to the bathroom.)
+**"Your hands or my hands?"** [Then gently guide their hands, or do it together.]
+**"Let's go together."** [Take their hand and walk to the bathroom.]
 
 Helping isn't giving in. You're not doing the task *for* them. You're doing it *with*
 them, so it gets done and they're part of it. For many young children, the hard part
@@ -77,7 +77,7 @@ was getting started. Once your hands are in the bin, theirs often follow.
 **"When… then…"** works for things you can't physically help with, or for older children
 who don't want hands-on help. It links the task to what naturally comes next.
 
-**"When the bricks are in the bin, then we'll have dinner."**
+**"When the bricks are in the bin, then we'll go outside."**
 **"When your pajamas are on, then we'll read the story."**
 **"When your coat is on, then we'll go to the park."**
 
@@ -85,7 +85,7 @@ Notice the word *when*, not *if*. "*If* you put the bricks away…" makes it sou
 "*When*" says it's going to happen; the only question is how soon.
 
 Also notice what comes after "then." It's something that was going to happen anyway:
-dinner, the story, the park. You're not inventing a new prize. You're just making the
+going outside, the story, the park. You're not inventing a new prize. You're just making the
 order clear.
 
 ## Rung 3: A Calm Consequence
@@ -253,17 +253,17 @@ the words you already chose.
 
 *Related · Small · Soon · Said calmly*
 
-**Moment 1:** ___________________________
+**Hard moment A:** ___________________________
 Consequence: ___________________________
 How long: ___________________________
 My warning words: "___________________________"
 
-**Moment 2:** ___________________________
+**Hard moment B:** ___________________________
 Consequence: ___________________________
 How long: ___________________________
 My warning words: "___________________________"
 
-**Moment 3:** ___________________________
+**Hard moment C:** ___________________________
 Consequence: ___________________________
 How long: ___________________________
 My warning words: "___________________________"

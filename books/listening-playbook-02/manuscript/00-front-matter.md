@@ -35,15 +35,15 @@ people. Any resemblance to a specific family is coincidental.
 **When they tune you out** (Chapter 4)
 
 - Ignoring you in the middle of play ("Did you hear me?")
-- "Come here" and time to come inside
+- "Come here!" Calling them to you, or time to come inside
 - "In a minute!"
-- Asking them to stop (jumping, banging, poking)
+- "Stop that!" Jumping on the couch, banging, poking
 - Listens to one parent but not the other
 - "Can I? Can I? Can I?"
 
 **No, defiance and power struggles** (Chapter 5)
 
-- The flat "No!"
+- "No!" The flat refusal
 - "You can't make me!"
 - Running off when you call
 - Doing it while looking right at you
@@ -71,12 +71,12 @@ people. Any resemblance to a specific family is coincidental.
 - The whiny voice
 - Interrupting when you're on the phone or talking
 - Potty words and silly-rude talk
-- "You're stupid!" and "Go away!"
+- "You're stupid!" "Go away!"
 - Eye-rolls and back-talk
 
 **Trickier moments** (Chapter 9)
 
-- Not listening at a friend's house or a playdate
+- Not listening at someone else's house (playdates and visits)
 - Touching everything in a store
 - "I didn't do it!"
 
