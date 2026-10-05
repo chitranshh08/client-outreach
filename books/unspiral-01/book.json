@@ -1,0 +1,29 @@
+{
+  "slug": "unspiral-01",
+  "title": "Unspiral",
+  "subtitle": "How to Stop Overthinking When It Hits Hardest",
+  "subtitle_line2": "Simple Tools to Quiet the Replay, the What-Ifs and the Decision You Can't Make",
+  "series_line": "The Unspiral Series · Book 1",
+  "author": "Elise Hartley",
+  "language": "en-US",
+  "version": "0.1",
+  "release_date": null,
+  "print": {
+    "trim_in": [6, 9],
+    "bleed": false,
+    "paper": "white",
+    "ink": "black and white",
+    "margin_inside_in": 0.8,
+    "margin_outside_in": 0.6,
+    "margin_top_in": 0.7,
+    "margin_bottom_in": 0.8
+  },
+  "links": {
+    "review_url": null,
+    "instagram_handle": null
+  },
+  "build": {
+    "script_lines": true
+  },
+  "_notes": "Index is 'Find Your Spiral' with 27 moments; tools/book_build/build.py currently expects 'Find Your Moment' with 30 entries, so generalize it before the first build."
+}

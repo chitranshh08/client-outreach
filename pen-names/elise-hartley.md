@@ -1,8 +1,8 @@
-# Pen Name: Elise Hartley (provisional)
+# Pen Name: Elise Hartley
 
 - **Niche(s):** Adult self-help: overthinking, rumination, decisions, people pleasing
 - **Series:** The Unspiral Series (working name)
-- **Created:** 2026-10-05 (provisional until the owner approves)
+- **Created:** 2026-10-05 · **Approved by owner:** 2026-10-05
 
 ## Name options (clash-checked 2026-10-05)
 | Name | Amazon Kindle autocomplete | Web search for a real author | Verdict |

@@ -1,11 +1,11 @@
 # Book Brief: Unspiral (working title)
 
 - **Slug:** unspiral-01
-- **Pen name:** Elise Hartley (provisional; `pen-names/elise-hartley.md`)
+- **Pen name:** Elise Hartley (approved 2026-10-05; `pen-names/elise-hartley.md`)
 - **Series:** The Unspiral Series, Book 1 of 4+ (working name)
 - **Niche report:** research/niches/2026-10-05-second-series.md (73/100, owner GO 2026-10-05)
 - **Formats:** Kindle ebook + 6×9 paperback
-- **Status:** blueprint, awaiting owner approval of pen name, title, promise and outline
+- **Status:** drafting. Pen name, title (option 1), promise and outline approved 2026-10-05
 
 ## Reader avatar
 - **Who:** An adult (mostly 25–45, often a woman, often busy with work or young kids) who is
