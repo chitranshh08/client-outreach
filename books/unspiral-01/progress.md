@@ -1,6 +1,6 @@
 # Progress: Unspiral
 
-**Status:** DRAFTING. Part 1 and Part 2 drafted 2026-10-05 (front matter, Start Here, Ch 1–10, all 27 moments). Next: Part 3 (Ch 11, 21-day plan) + back matter.
+**Status:** FULL DRAFT COMPLETE 2026-10-05 (16,980 words). Review of Parts 1–2 done (findings only: `sessions/2026-10-05_review-parts-1-2.md`). Next: owner picks which findings to apply → owner edit pass → build.
 **Title (approved 2026-10-05):** Unspiral: How to Stop Overthinking When It Hits Hardest: Simple Tools to Quiet the Replay, the What-Ifs and the Decision You Can't Make
 **Pen name (approved 2026-10-05):** Elise Hartley
 **Length policy:** tight, like Calm Words Book 2 (~20–24k words). Never pad.
@@ -20,8 +20,8 @@
 | 09-night-loop.md | Ch 8 The Night Loop (Moments 23–25) + night card + Book 2 teaser | 1,138 | Drafted |
 | 10-people-spirals.md | Ch 9 The People Spirals (Moments 26–27) | 822 | Drafted |
 | 11-when-it-wont-stop.md | Ch 10 When It Won't Stop (progress, 6 snags, when to get help, 988) | 1,037 | Drafted |
-| 12 | Part 3: Ch 11 21-Day Plan | — | Not started |
-| 99-back-matter.md | Thank you + review ask, cheat sheet, sources, what's next, bio | — | Not started |
+| 12-21-day-plan.md | Part 3 opener + Ch 11 21-Day Plan + check-in + One Small Step + tracker + blank moment card | 1,217 | Drafted |
+| 99-back-matter.md | Thank You (neutral review ask) · 27 Moments Cheat Sheet · Sources · What's Next · Stay Connected · About the Author | 1,329 | Drafted |
 
 ## Self-check (2026-10-05, Part 1)
 - AI-pattern detector: every file "Minimal AI signals" (score 1; front matter 7 from its index lists).
@@ -42,6 +42,13 @@
 - Every card uses only the eight tools (two drafts that introduced new techniques were reworked into Name It / Worry Window).
 - No money or medical advice: Moment 15 is about the worry, not the money; Moment 16 says "call your doctor", with emergency signs.
 - **Length:** whole book so far 14.4k words. Part 3 + back matter will add ~2.5k, so ~17k (≈ 85–90 pages), under the brief's 20–24k. Not padded on purpose; owner decision whether to add anything (see open questions).
+
+## Self-check (2026-10-05, Part 3 + back matter)
+- Detector: Ch 11 score 2, back matter 1 (minimal); fixed one flag ("In today's"). 0 hard style violations, 0 em dashes.
+- Review ask: neutral, sent to every reader ("Whatever you thought of the book…"), no star request, no gating, placed right after the 21-day plan (quality-bar rule). Link placeholder `REVIEW-LINK`.
+- Back-matter headings match the Contents entries exactly.
+- What's Next: *Unspiral Your Nights* labeled "coming next", no ASIN, no promised contents beyond the topic.
+- Quick win now at word 1,497 of 16,980 = 8.8%.
 
 ## Continuity (read before drafting the next chapter)
 **Defined terms (exact names):**
@@ -64,4 +71,4 @@
 ## Open questions for the owner
 1. Before the first build: `tools/book_build` expects a "Find Your Moment" index with 30 entries. This book has "Find Your Spiral" with 27. I'll generalize the build when we get there (no change to the other books).
 2. Sources S3 and S7: confirm volume/page numbers against the originals before publishing.
-3. Length: ~17k words when finished vs the brief's 20–24k. Options: ship tight (recommended, matches the "in-the-moment guide" promise), or add a few more moments in the full review if any feel missing.
+3. Length: 16,980 words final draft vs the brief's 20–24k. Options: ship tight (recommended, matches the "in-the-moment guide" promise), or add a few more moments in the full review if any feel missing.
