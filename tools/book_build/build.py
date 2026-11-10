@@ -10,7 +10,8 @@ The manuscript is never modified. Target differences live here:
   common   footnote labels made unique per file; stable ids on parts/chapters/moments;
            placeholder lines (REVIEW-LINK, @HANDLE) filled from book.json or removed.
   kindle   pandoc -> DOCX with a generated reference.docx (Heading 1 starts a new page,
-           no headers/footers/page numbers); Contents + Find Your Moment become
+           no headers/footers/page numbers, page size = print trim with mirrored
+           margins); Contents + Find Your Moment become
            hyperlinks to heading bookmarks; front-matter rules become page breaks.
   print    pandoc -> HTML -> WeasyPrint PDF at the trim size in book.json: mirrored
            margins, running heads, page numbers, contents/index page numbers computed
@@ -315,6 +316,9 @@ def build_docx(md, out_path, cfg, work):
     d.core_properties.subject = cfg["subtitle"]
     d.core_properties.language = cfg["language"]
     d.save(out_path)
+    # pandoc writes no page size (Word/KDP read US Letter): give the DOCX the print trim
+    from docx_trim import set_trim
+    set_trim(out_path, cfg["print"])
 
 
 # ---------------------------------------------------------------- print pdf
